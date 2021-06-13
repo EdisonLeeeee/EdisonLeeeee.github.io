@@ -2,8 +2,8 @@ favicon: /img/favicon.png
 # Change to your profile picture
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
-author: 'chenliang'
-author_bio: 'Current Location: @Guangzhou, China.'
+author: Jintang Li
+author_bio: "Current Location: @Guangzhou, China."
 
 since: 2021
 
@@ -17,7 +17,6 @@ menu:
   Bio: /bio/index.html
   Activities: /activities/index.html
   Contact: /contact/index.html
-  Group: /group/index.html
 
 # flink picture will load if avator link calls on error
 loading_bg:
@@ -31,21 +30,21 @@ social:
 social_links:
   fab fa-twitter: /
   fab fa-facebook-square: /
-  fab fa-github: /
+  fab fa-github: https://github.com/EdisonLeeeee/
   fab fa-stack-overflow: /
   fab fa-linkedin: /
   fab fa-weibo: /
   fab fa-weixin: /
   fab fa-qq: /
-  fas fa-envelope: / #E-mail
-  fas fa-rss: /  #rss
+  fas fa-envelope: lijt55@mail2.sysu.edu.cn/ #E-mail
+  fas fa-rss: / #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
 # name: url || icon_name
 e_social:
   enable: true
 e_social_links:
-  Google Scholar: / || fas fa-graduation-cap
+  Google Scholar: https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN/ || fas fa-graduation-cap
   ORCID: / || fab fa-orcid
 
 # CV download link
@@ -65,7 +64,7 @@ box_shadow:
 CDN_USE:
   css:
     - /css/index.css
-#    - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
+    #    - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
     - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css # fontawesome 5
   js:
     - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #/js/third-party/jquery.min.js

@@ -5,14 +5,24 @@ tags:
 academia: true
 ---
 
-## About me
+<img align="right" height="300px" width="520px" alt="GraphGallery" src="/img/GraphGallery.svg" />
 
-Dr. Liang Chen is currently an Associate Professor at School of Computer Science and Engineering in Sun Yat-Sen University, Guang Zhou, China. He received a PhD and a Bachelor's degree from Advanced Computing and System Laboratory (CCNT), College of Compter Science &Technology at Zhejiang University, China, respectively in 2015 and 2009. His research area includes Recommendation System, Graph Computing, Adversarial Learning, AI Security, and Service Computing. (Google Scholar)
+#### - 😎 About me
+- 🏫 Sun Yat-sen University, China
+- 💻 Major in **Software Engineering**
+- 🥀 Learning Python, Machine Learning
+- 💕 TensorFlow and PyTorch Enthusiast
 
-Position Opening! Looking for Students with Research Passion!(Research Intern, Master, PhD.)
+#### - 😼 Research on
 
++ Graph Representation Learning
++ Graph Adversarial Learning
++ Recommender System
 
-## What's new
+#### - 💗 Project
++ [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): A gallery for benchmarking Graph Neural Networks (GNNs) and Geometric *Adversarial* machine learning with TensorFlow 2.x and PyTorch backend
+
+#### - 💨 What's new
 
 * <font color=red>[TOIS]</font> 2021/06/03, My collaboration with researchers in Netease and Tsinghua on Graph Convolutional Network for Recommendation has been accepted.
 * <font color=red>[IJCAI-21]</font> 2021/04/29, Our work on structural vulnerability of graph convolutional network has been accepted.
