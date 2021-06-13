@@ -5,7 +5,7 @@ tags:
 academia: true
 ---
 
-<img align="right" height="300px" width="520px" alt="GraphGallery" src="/img/GraphGallery.svg" />
+<!-- <img align="right" height="300px" width="520px" alt="GraphGallery" src="/img/GraphGallery.svg" /> -->
 
 #### - 😎 About me
 - 🏫 Sun Yat-sen University, China
