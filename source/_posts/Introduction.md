@@ -20,7 +20,7 @@ academia: true
 + Recommender System
 
 #### - 💗 Project
-+ [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): A gallery for benchmarking Graph Neural Networks (GNNs) and Geometric *Adversarial* machine learning with TensorFlow 2.x and PyTorch backend
++ [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): A gallery for benchmarking Graph Neural Networks (GNNs) and Geometric Adversarial machine learning with TensorFlow 2.x and PyTorch backend
 
 #### - 💨 What's new
 
