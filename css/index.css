@@ -223,6 +223,10 @@ figure.highlight {
   background: rgba(128,203,196,0.251);
   color: #525252;
 }
+@font-face {
+  font-family: Cascadia Code;
+  src: url("./fonts/CascadiaCode.ttf");
+}
 * {
   -webkit-text-size-adjust: none;
 }
@@ -240,13 +244,13 @@ body {
   color: #494e52;
   font-size: 1.8em;
   line-height: 1.5;
-  font-family: "Cascadia Code", FangSong, STFangsong, sans-serif;
+  font-family: Cascadia Code, FangSong, STFangsong, sans-serif;
   scroll-behavior: smooth;
 }
 a,
 span,
 .btn {
-  font-family: "Cascadia Code", FangSong, STFangsong, sans-serif;
+  font-family: Cascadia Code, FangSong, STFangsong, sans-serif;
 }
 img {
   max-width: 100%;
@@ -486,7 +490,7 @@ blockquote p {
   text-align: right;
 }
 .page article code {
-  font-family: "Cascadia Code", FangSong, STFangsong, sans-serif;
+  font-family: Cascadia Code, FangSong, STFangsong, sans-serif;
   padding: 0.2rem 0.3rem;
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
