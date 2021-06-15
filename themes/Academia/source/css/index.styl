@@ -1,7 +1,12 @@
 @import 'user'
 @import '_highlight/highlight.styl'
 
-$font-family = "Cascadia Code", FangSong, STFangsong, sans-serif;
+@font-face{
+    font-family: Cascadia Code;
+    src: url(./fonts/CascadiaCode.ttf);   
+}
+
+$font-family = Cascadia Code, FangSong, STFangsong, sans-serif;
 $theme-blue = #1353d7;
 $theme-dark-blue = #096494;
 $theme-red = #c62641;
