@@ -1,7 +1,78 @@
 ---
-title: Publications
-date: 2021-06-11 15:56:11
+title: Introduction
+date: 2021-06-11 15:27:14
+tags:
+academia: true
 ---
+
+## About me
+
+I am currently a first-year Ph.D. student at Sun Yat-sen University (SYSU), where I am advised by Prof. [Liang Chen](https://chenliang.tech/). I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of Graph Representation Learning. More specifically, I work on the area of graph neural networks including their theory foundations, adversarial robustness and applications.
+
+Email: lijt55 [@] mail2 [DOT] sysu [DOT] edu [DOT] cn 
+
+## Educations
+
++ **Sun Yat-sen University**
+PhD in Software Engineering, from August 2021 to June 2025 (Expected).
+
++ **Sun Yat-sen University**
+M.S. in Electronics and Communications Engineering, from August 2019 to June 2021.
+
+## Experiences
+
++ Research Intern in Ant Group, from February 2022 to present.
+
+
+## Open-Source Project
+
+<p align="center">
+  <img width = "700" height = "300" src="https://github.com/EdisonLeeeee/GraphGallery/blob/master/imgs/graphgallery.svg" alt="banner"/>
+  <br/>
+</p>
+<p align="center"><strong><em>PyTorch</em> is all you need!</strong></p>
+
+<p align=center>
+  <a href="https://www.python.org/downloads/release/python-360/">
+    <img src="https://img.shields.io/badge/Python->=3.6-3776AB?logo=python" alt="Python">
+  </a>    
+  <a href="https://github.com/pytorch/pytorch">
+    <img src="https://img.shields.io/badge/PyTorch->=1.4-FF6F00?logo=pytorch" alt="pytorch">
+  </a>   
+  <a href="https://pypi.org/project/graphgallery/">
+    <img src="https://badge.fury.io/py/graphgallery.svg" alt="pypi">
+  </a>       
+  <a href="https://github.com/EdisonLeeeee/GraphGallery/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/EdisonLeeeee/GraphGallery" alt="license">
+  </a>       
+</p>
+
++ [<font color=blue>[GraphGallery]</font>](https://github.com/EdisonLeeeee/GraphGallery): A gallery for benchmarking Graph Neural Networks (GNNs).
+
+<p align="center">
+  <img width = "600" height = "180" src="https://github.com/EdisonLeeeee/GraphWar/blob/master/imgs/graphwar.png" alt="banner"/>
+  <br/>
+</p>
+<p align="center"><em>Graph War is Cooooooooming!</em></p>
+
+
+<p align=center>
+  <a href="https://www.python.org/downloads/release/python-360/">
+    <img src="https://img.shields.io/badge/Python->=3.6-3776AB?logo=python" alt="Python">
+  </a>    
+  <a href="https://github.com/pytorch/pytorch">
+    <img src="https://img.shields.io/badge/PyTorch->=1.8-FF6F00?logo=pytorch" alt="pytorch">
+  </a>   
+  <a href="https://github.com/EdisonLeeeee/GraphWar/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/EdisonLeeeee/GraphWar" alt="license">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>    
+  </a>       
+</p>
+
++ [<font color=blue>[GraphWar]</font>](https://github.com/EdisonLeeeee/GraphWar): A graph adversarial learning toolbox based on PyTorch and PyTorch Geometric (under development).
+
+
+## Publications
 
 Note: * for corresponding author, # for equal contribution.
 ### Preprints
@@ -36,7 +107,7 @@ Note: * for corresponding author, # for equal contribution.
    Zulun Zhu, Jiaying Peng, **Jintang Li**, Liang Chen*, Qi Yu, Siqiang Luo. 
    Knowledge-Based Systems (**<font color=#bb0000>IJCAI</font>** 2022, CCF-A, Accept long). 
    [**<font color=blue>[Paper]</font>**]() 
-   
+
 + **Graph Enhanced Neural Interaction Model for recommendation**. 
    Liang Chen, Tao Xie, **Jintang Li**, Zibin Zheng*. 
    Knowledge-Based Systems (**<font color=#bb0000>KBS</font>** 2022, CCF-B). 
@@ -64,3 +135,18 @@ Note: * for corresponding author, # for equal contribution.
 + **Deep Insights into Graph Adversarial Learning: An Empirical Study Perspective**. 
    **Jintang Li**, Zishan Gu, Qibiao Peng, Kun Xu, Liang Chen*, and Zibin Zheng. 
    Joint Workshop on Human Brain and Artificial Intelligence, in Conjunction With IJCAI-PRICAI  (**<font color=#bb0000>IJCAI-HBAI</font>** 2021)
+
+
+
+
+## Rewards
+
++ KDD Cup 2020, Adversarial Attacks and Defense on Academic Graph [<font color=blue>[Link]</font>](https://www.biendata.xyz/competition/kddcup_2020/), 2nd place.
++ Spectra Review Paper Competition 2021 [<font color=blue>[Link]</font>](https://spectra.mathpix.com/), 3rd place, [Graph Adversarial Learning](https://spectra.mathpix.com/article/2021.09.00012/graph-adversarial-learning).
++ Ant Group ATEC 2021 online, Track 2: Fraud detection of digital currency transactions [<font color=blue>[Link]</font>](https://www.atecup.cn/competitionIntroduction), 4st place. 
+
+## Talks
+
++ KDD 2022 tutorial (coming soon) **Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection**
++ AI TIME IJCAI 2021 [<font color=blue>[Link]</font>](https://www.bilibili.com/video/BV1RS4y1Q7Wq): **Understanding Structural Vulnerability in Graph Convolutional Networks**
+

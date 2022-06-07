@@ -2,11 +2,11 @@
 @import '_highlight/highlight.styl'
 
 @font-face{
-    font-family: Cascadia Code;
-    src: url(./fonts/CascadiaCode.ttf);   
+    font-family: Georgia;
+    src: url(./fonts/Georgia.ttf);   
 }
 
-$font-family = Cascadia Code, FangSong, STFangsong, sans-serif;
+$font-family = Georgia, FangSong, STFangsong, sans-serif;
 $theme-blue = #1353d7;
 $theme-dark-blue = #096494;
 $theme-red = #c62641;
@@ -17,7 +17,7 @@ $theme-red = #c62641;
 html
   height: 100%
   margin 0
-  font-size: 62.5%;
+  font-size: 65%;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 
@@ -302,10 +302,10 @@ blockquote
   display: table-cell;
   vertical-align: top;
   width: 40px;
-  height: 40px;
+  height: 80px;
   img
-    width: 100%;
-    max-width: 110px;
+    width: 150%;
+    max-width: 210px;
     border-radius: 50%;
 
 .author-discrip
@@ -431,7 +431,7 @@ blockquote
   transition: all 0.2s ease-in-out;
 
   .e-social-link
-    color black
+    color darkblue
     .fa,
     .fas,
     .fab
@@ -458,9 +458,9 @@ blockquote
   .side-card
     width: 15.25424%;
     min-width: 165px;
-    float: left;
+    float: right;
     margin-right: 1.69492%;
-    opacity: 0.75;
+    opacity: 1.0;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
     if hexo-config('box_shadow') && hexo-config('box_shadow.enable')
@@ -483,7 +483,7 @@ blockquote
     height: auto;
     text-align: center;
     img
-      padding: 5px;
+      padding: 2px;
       border: 1px solid #f2f3f3;
 
   .author-discrip
@@ -726,3 +726,5 @@ blockquote
 ::-webkit-scrollbar-thumb
   //border-radius: 10px;
   background-color: rgba(122, 130, 136, 0.4);
+
+
