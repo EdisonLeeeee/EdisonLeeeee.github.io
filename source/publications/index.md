@@ -1,6 +1,6 @@
 ---
 title: Publications
-date: 2021-06-11 15:56:11
+date: 2022-06-07 10:31:09
 ---
 
 Note: * for corresponding author, # for equal contribution.
@@ -35,8 +35,8 @@ Note: * for corresponding author, # for equal contribution.
 + **Spiking Graph Convolutional Networks**. 
    Zulun Zhu, Jiaying Peng, **Jintang Li**, Liang Chen*, Qi Yu, Siqiang Luo. 
    Knowledge-Based Systems (**<font color=#bb0000>IJCAI</font>** 2022, CCF-A, Accept long). 
-   [**<font color=blue>[Paper]</font>**]() 
-   
+   [**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2205.02767) [**<font color=blue>[GitHub]</font>**](https://github.com/ZulunZhu/SpikingGCN)
+
 + **Graph Enhanced Neural Interaction Model for recommendation**. 
    Liang Chen, Tao Xie, **Jintang Li**, Zibin Zheng*. 
    Knowledge-Based Systems (**<font color=#bb0000>KBS</font>** 2022, CCF-B). 

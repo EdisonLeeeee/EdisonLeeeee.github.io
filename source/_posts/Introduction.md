@@ -1,6 +1,6 @@
 ---
 title: Introduction
-date: 2021-06-11 15:27:14
+date: 2022-06-07 10:31:00
 tags:
 academia: true
 ---
@@ -23,7 +23,6 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 + Research Intern in Ant Group, from February 2022 to present.
 
-
 ## Open-Source Project
 
 <p align="center">
@@ -36,9 +35,6 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
   <a href="https://www.python.org/downloads/release/python-360/">
     <img src="https://img.shields.io/badge/Python->=3.6-3776AB?logo=python" alt="Python">
   </a>    
-  <!-- <a href="https://github.com/tensorflow/tensorflow/releases/tag/v2.1.0">
-    <img src="https://img.shields.io/badge/TensorFlow->=2.1.0-FF6F00?logo=tensorflow" alt="tensorflow">
-  </a>       -->
   <a href="https://github.com/pytorch/pytorch">
     <img src="https://img.shields.io/badge/PyTorch->=1.4-FF6F00?logo=pytorch" alt="pytorch">
   </a>   
@@ -58,15 +54,6 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 </p>
 <p align="center"><em>Graph War is Cooooooooming!</em></p>
 
-<p align=center>
-  <a href="https://graphwar.readthedocs.io/en/latest">
-    [Documentation]
-  </a>         
-  |
-  <a href="https://github.com/EdisonLeeeee/GraphWar/blob/master/examples">
-    [Examples]
-  </a>  
-</p>
 
 <p align=center>
   <a href="https://www.python.org/downloads/release/python-360/">
@@ -84,7 +71,7 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
   </a>       
 </p>
 
-+ [<font color=blue>[GraphWar]</font>](https://github.com/EdisonLeeeee/GraphWar): A graph adversarial learning toolbox based on PyTorch and PyTorch Geometric (under development).
++ [<font color=blue>[GraphWar]</font>](https://github.com/EdisonLeeeee/GraphWar): A graph adversarial learning toolbox based on PyTorch and PyTorch Geometric.
 
 
 ## Publications
