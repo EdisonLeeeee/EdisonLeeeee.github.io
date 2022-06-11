@@ -29,13 +29,12 @@ social_links:
   # fab fa-twitter: /
   # fab fa-facebook-square: /
   fab fa-github: https://github.com/EdisonLeeeee/
+  fab fa-zhihu: https://www.zhihu.com/people/Edisonleejt/
   # fab fa-stack-overflow: /
   # fab fa-linkedin: /
   # fab fa-weibo: /
   # fab fa-qq: /
-  fab fa-weixin: /
   fas fa-envelope: lijt55@mail2.sysu.edu.cn/ #E-mail
-  fab fa-zhihu: https://www.zhihu.com/people/Edisonleejt/
   # fas fa-rss: / #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
@@ -45,6 +44,7 @@ e_social:
 e_social_links:
   Google Scholar: https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN/ || fas fa-graduation-cap
   ORCID: https://orcid.org/0000-0002-6405-1531/ || fab fa-orcid
+  GEAR图学习(公众号): https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MjY0NTQ1MQ==&action=getalbum&album_id=2077482025749446657&scene=173&from_msgid=2247483882&from_itemidx=1&count=3&nolastread=1#wechat_redirect || fab fa-weixin
 
 # CV download link
 cv_dl:

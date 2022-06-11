@@ -1,15 +1,19 @@
 ---
 title: Introduction
-date: 2022-06-07 10:31:00
+date: 2022-06-11 17:11:54
 tags:
 academia: true
 ---
 
 ## About me
 
-I am currently a first-year Ph.D. student at Sun Yat-sen University (SYSU), where I am advised by Prof. [Liang Chen](https://chenliang.tech/). I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of Trustworthy Graph Learning. More specifically, I work on the area of graph neural networks including their theory foundations, reliability and applications.
+I am currently a first-year Ph.D. student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/), where I am advised by Prof. [Liang Chen](https://chenliang.tech/). I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of **Trustworthy Graph Learning**. More specifically, I work on the area of graph neural networks including their theory foundations, reliability and applications.
 
-Email: lijt55 [@] mail2 [DOT] sysu [DOT] edu [DOT] cn 
+## 💨 News
+What’s new
++ <font color=#bb0000>[KDD 2022]</font> 11 June, 2022: We will give a tutorial about “[Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection](https://ai.tencent.com/ailab/ml/twgl/)” with our collaborators.
++ <font color=#bb0000>[IJCAI 2022]</font> April 21, 2022, Our work on spiking graph convolutional network has been accepted for a Long Oral presentation.
+
 
 ## Educations
 
@@ -52,7 +56,7 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
   <img width = "400" height = "140" src="/img/graphwar.png" alt="banner"/>
   <br/>
 </p>
-<p align="center">Graph War is Cooooooooming!</p>
+<p align="center">Graph War is Cooooooooming!!!!!!!</p>
 
 
 <p align=center>
@@ -149,7 +153,7 @@ Note: * for corresponding author, # for equal contribution.
 
 ## Rewards
 
-+ Spectra Review Paper Competition 2022 winner [<font color=blue>[Link]</font>](https://mathpix.com/blog/spectra-competition-winners-spring-2022).
++ Spectra Review Paper Competition 2022 (Spring) winner [<font color=blue>[Link]</font>](https://mathpix.com/blog/spectra-competition-winners-spring-2022).
 + KDD Cup 2020, Adversarial Attacks and Defense on Academic Graph [<font color=blue>[Link]</font>](https://www.biendata.xyz/competition/kddcup_2020/), 2nd place.
 + Spectra Review Paper Competition 2021 [<font color=blue>[Link]</font>](https://spectra.mathpix.com/), 3rd place winner, [Graph Adversarial Learning](https://spectra.mathpix.com/article/2021.09.00012/graph-adversarial-learning).
 + Ant Group ATEC 2021 online, Track 2: Fraud detection of digital currency transactions [<font color=blue>[Link]</font>](https://www.atecup.cn/competitionIntroduction), 4st place. 
