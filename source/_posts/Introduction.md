@@ -11,26 +11,26 @@ I am currently a first-year Ph.D. student at [Sun Yat-sen University (SYSU)](htt
 
 ## 💨 News
 What’s new
-+ <font color=#bb0000>[KDD 2022]</font> 11 June, 2022: We will give a tutorial about “[Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection](https://ai.tencent.com/ailab/ml/twgl/)” with our collaborators.
-+ <font color=#bb0000>[IJCAI 2022]</font> April 21, 2022, Our work on spiking graph convolutional network has been accepted for a Long Oral presentation.
++ <font color=#bb0000>[KDD 2022]</font> June 11, 2022: We will give a tutorial about "[Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection](https://ai.tencent.com/ailab/ml/twgl/)" with our collaborators.
++ <font color=#bb0000>[IJCAI 2022]</font> April 21, 2022, Our work on spiking graph convolutional networks has been accepted for a **Long Oral** presentation.
 
 
 ## Educations
 
 + **Sun Yat-sen University**
-PhD in Software Engineering, from August 2021 to June 2025 (Expected).
+Ph.D. in Software Engineering, from August 2021 to June 2025 (Expected).
 
 + **Sun Yat-sen University**
 M.S. in Electronics and Communications Engineering, from August 2019 to June 2021.
 
 ## Experiences
 
-+ Research Intern in Ant Group, from February 2022 to present.
++ Research Intern in Ant Group, from February 2022 to June 2022.
 
 ## Open-Source Project
 ### Graph Benchmark
 <p align="center">
-  <img width = "400" height = "200" src="/img/graphgallery.svg" alt="banner"/>
+  <img width = "600" height = "160" src="/img/graphgallery.svg" alt="banner"/>
   <br/>
 </p>
 <p align="center">PyTorch is all you need!</p>
@@ -53,10 +53,10 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 + [<font color=blue>[GraphGallery]</font>](https://github.com/EdisonLeeeee/GraphGallery): A gallery for benchmarking Graph Neural Networks (GNNs).
 
 <p align="center">
-  <img width = "400" height = "140" src="/img/graphwar.png" alt="banner"/>
+  <img width = "600" height = "150" src="/img/greatx.png" alt="banner"/>
   <br/>
 </p>
-<p align="center">Graph War is Cooooooooming!!!!!!!</p>
+<p align="center">GreatX is great!</p>
 
 
 <p align=center>
@@ -66,16 +66,16 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
   <a href="https://github.com/pytorch/pytorch">
     <img src="https://img.shields.io/badge/PyTorch->=1.8-FF6F00?logo=pytorch" alt="pytorch">
   </a>   
-  <a href="https://pypi.org/project/graphwar/">
-    <img src="https://badge.fury.io/py/graphwar.svg" alt="pypi">
+  <a href="https://pypi.org/project/greatx/">
+    <img src="https://badge.fury.io/py/greatx.svg" alt="pypi">
   </a>       
-  <a href="https://github.com/EdisonLeeeee/GraphWar/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/EdisonLeeeee/GraphWar" alt="license">
+  <a href="https://github.com/EdisonLeeeee/GreatX/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/EdisonLeeeee/GreatX" alt="license">
     <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>    
   </a>       
 </p>
 
-+ [<font color=blue>[GraphWar]</font>](https://github.com/EdisonLeeeee/GraphWar): A graph adversarial learning toolbox based on PyTorch and PyTorch Geometric.
++ [<font color=blue>[GreatX]</font>](https://github.com/EdisonLeeeee/GreatX): A graph reliability toolbox based on PyTorch and PyTorch Geometric.
 
 ### Awesome Lists
 + [<font color=blue>[Awesome Graph Adversarial Learning]</font>](https://github.com/EdisonLeeeee/Graph-Adversarial-Learning): A curated collection of adversarial attack and defense on graph data.
@@ -107,7 +107,7 @@ Note: * for corresponding author, # for equal contribution.
 
  + **Neighboring Backdoor Attacks on Graph Convolutional Network**. (**<font color=#bb0000>arXiv</font>** 2022). 
   Liang Chen*, Qibiao Peng, **Jintang Li**, Yang Liu, Jiawei Chen, Yong Li, Zibin Zheng.
- [**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2201.06202) [**<font color=blue>[GitHub]</font>**](https://github.com/EdisonLeeeee/GraphWar)
+ [**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2201.06202) [**<font color=blue>[GitHub]</font>**](https://github.com/EdisonLeeeee/GreatX)
 
  + **A Survey of Adversarial Learning on Graphs**. (**<font color=#bb0000>arXiv</font>** 2020).
  Liang Chen*, **Jintang Li**, Jiaying Peng, Tao Xie, Zengxu Cao, Kun Xu, Xiangnan He, Zibin Zheng.
