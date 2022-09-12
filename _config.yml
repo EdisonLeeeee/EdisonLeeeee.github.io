@@ -106,3 +106,4 @@ deploy:
   type: git
   repository: git@github.com:EdisonLeeeee/EdisonLeeeee.github.io
   branch: page
+  token: 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

@@ -7,7 +7,7 @@ academia: true
 
 ## About me
 
-I am currently a first-year Ph.D. student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/), where I am advised by Prof. [Liang Chen](https://chenliang.tech/). I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of **Trustworthy Graph Learning**. More specifically, I work on the area of graph neural networks including their theory foundations, reliability and applications.
+I am currently a Ph.D. student at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/), where I am advised by Prof. [Liang Chen](https://chenliang.tech/). I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of **Trustworthy Graph Learning**. More specifically, I work on the area of graph neural networks including their theory foundations, reliability and applications.
 
 ## 💨 News
 What’s new
@@ -89,6 +89,10 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 Note: * for corresponding author, # for equal contribution.
 ### Preprints
 
++ **Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks**. (**<font color=#bb0000>arXiv</font>** 2022).
+  **Jintang Li**, Zhouxin Yu, Zulun Zhu, Liang Chen*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng
+[**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2208.10364) [**<font color=blue>[GitHub]</font>**](https://github.com/EdisonLeeeee/SpikeNet)
+
 + **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection**. (**<font color=#bb0000>arXiv</font>** 2022).
   Bingzhe Wu*, **Jintang Li**, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.
 [**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2205.10014)
@@ -115,14 +119,19 @@ Note: * for corresponding author, # for equal contribution.
 
 ### Conferences and Journals
 
++ **Unifying multi-associations through hypergraph for bundle recommendation**.
+  Zhouxin Yu, **Jintang Li**, Liang Chen*, Zibin Zheng
+  Knowledge-Based Systems (**<font color=#bb0000>KBS</font>** 2022, CCF-C). 
+   [**<font color=blue>[Paper]</font>**](https://www.sciencedirect.com/science/article/pii/S0950705122008887?dgcid=coauthor) [**<font color=blue>[GitHub]</font>**](https://github.com/storyandwine/UHBR)
+
 + **Spiking Graph Convolutional Networks**. 
    Zulun Zhu, Jiaying Peng, **Jintang Li**, Liang Chen*, Qi Yu, Siqiang Luo. 
-   Knowledge-Based Systems (**<font color=#bb0000>IJCAI</font>** 2022, CCF-A, Accept long). 
+   In Proceedings of 31th International Joint Conference on Artificial Intelligence (**<font color=#bb0000>IJCAI</font>** 2022, CCF-A). 
    [**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2205.02767) [**<font color=blue>[GitHub]</font>**](https://github.com/ZulunZhu/SpikingGCN)
 
 + **Graph Enhanced Neural Interaction Model for recommendation**. 
    Liang Chen, Tao Xie, **Jintang Li**, Zibin Zheng*. 
-   Knowledge-Based Systems (**<font color=#bb0000>KBS</font>** 2022, CCF-B). 
+   Knowledge-Based Systems (**<font color=#bb0000>KBS</font>** 2022, CCF-C). 
    [**<font color=blue>[Paper]</font>**](https://www.sciencedirect.com/science/article/abs/pii/S0950705122002775) 
 
 + **Understanding Structural Vulnerability in Graph Convolutional Networks**. 
@@ -156,7 +165,7 @@ Note: * for corresponding author, # for equal contribution.
 + Spectra Review Paper Competition 2022 (Spring) winner [<font color=blue>[Link]</font>](https://mathpix.com/blog/spectra-competition-winners-spring-2022).
 + KDD Cup 2020, Adversarial Attacks and Defense on Academic Graph [<font color=blue>[Link]</font>](https://www.biendata.xyz/competition/kddcup_2020/), 2nd place.
 + Spectra Review Paper Competition 2021 [<font color=blue>[Link]</font>](https://spectra.mathpix.com/), 3rd place winner, [Graph Adversarial Learning](https://spectra.mathpix.com/article/2021.09.00012/graph-adversarial-learning).
-+ Ant Group ATEC 2021 online, Track 2: Fraud detection of digital currency transactions [<font color=blue>[Link]</font>](https://www.atecup.cn/competitionIntroduction), 4st place. 
++ Ant Group ATEC 2021 online, Track 2: Fraud detection of digital currency transactions [<font color=blue>[Link]</font>](https://www.atecup.cn/competitionIntroduction), 4th place. 
 
 ## Talks
 
