@@ -5,11 +5,10 @@ date: 2022-06-07 10:31:09
 
 
 Note: * for corresponding author, # for equal contribution.
-### Preprints
+## Publications
 
-+ **Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks**. (**<font color=#bb0000>arXiv</font>** 2022).
-  **Jintang Li**, Zhouxin Yu, Zulun Zhu, Liang Chen*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng
-[**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2208.10364) [**<font color=blue>[GitHub]</font>**](https://github.com/EdisonLeeeee/SpikeNet)
+Note: * for corresponding author, # for equal contribution.
+### Preprints
 
 + **A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection**. (**<font color=#bb0000>arXiv</font>** 2022).
   Bingzhe Wu*, **Jintang Li**, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.
@@ -37,15 +36,25 @@ Note: * for corresponding author, # for equal contribution.
 
 ### Conferences and Journals
 
++ **Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks**.
+  **Jintang Li**, Zhouxin Yu, Zulun Zhu, Liang Chen*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng
+  Association for the Advancement of Artificial Intelligence (**<font color=#bb0000>AAAI</font>** 2023 oral, CCF-A)
+  [**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2208.10364) [**<font color=blue>[GitHub]</font>**](https://github.com/EdisonLeeeee/SpikeNet)
+
++ **Spectral Adversarial Training for Robust Graph Neural Network**.
+  **Jintang Li**, Jiaying Peng, Liang Chen*, Zibin Zheng, Tingting Liang, Qing Ling
+  IEEE Transactions on Knowledge and Data Engineering (**<font color=#bb0000>TKDE</font>** 2022, CCF-A). 
+  [**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2211.10896) [**<font color=blue>[GitHub]</font>**](https://github.com/EdisonLeeeee/SAT)
+
 + **Unifying multi-associations through hypergraph for bundle recommendation**.
   Zhouxin Yu, **Jintang Li**, Liang Chen*, Zibin Zheng
   Knowledge-Based Systems (**<font color=#bb0000>KBS</font>** 2022, CCF-C). 
-   [**<font color=blue>[Paper]</font>**](https://www.sciencedirect.com/science/article/pii/S0950705122008887?dgcid=coauthor) [**<font color=blue>[GitHub]</font>**](https://github.com/storyandwine/UHBR)
+  [**<font color=blue>[Paper]</font>**](https://www.sciencedirect.com/science/article/pii/S0950705122008887?dgcid=coauthor) [**<font color=blue>[GitHub]</font>**](https://github.com/storyandwine/UHBR)
 
 + **Spiking Graph Convolutional Networks**. 
-   Zulun Zhu, Jiaying Peng, **Jintang Li**, Liang Chen*, Qi Yu, Siqiang Luo. 
-   In Proceedings of 31th International Joint Conference on Artificial Intelligence (**<font color=#bb0000>IJCAI</font>** 2022, CCF-A). 
-   [**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2205.02767) [**<font color=blue>[GitHub]</font>**](https://github.com/ZulunZhu/SpikingGCN)
+  Zulun Zhu, Jiaying Peng, **Jintang Li**, Liang Chen*, Qi Yu, Siqiang Luo. 
+  In Proceedings of 31th International Joint Conference on Artificial Intelligence (**<font color=#bb0000>IJCAI</font>** 2022, CCF-A). 
+  [**<font color=blue>[Paper]</font>**](https://arxiv.org/abs/2205.02767) [**<font color=blue>[GitHub]</font>**](https://github.com/ZulunZhu/SpikingGCN)
 
 + **Graph Enhanced Neural Interaction Model for recommendation**. 
    Liang Chen, Tao Xie, **Jintang Li**, Zibin Zheng*. 
