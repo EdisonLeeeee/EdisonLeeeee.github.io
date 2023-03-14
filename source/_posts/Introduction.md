@@ -11,9 +11,9 @@ I am currently a PhD student at [Sun Yat-sen University (SYSU)](https://www.sysu
 
 ## 💨 News
 What’s new
-+ <font color=#bb0000>[AAAI 2023]</font> November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023!
++ <font color=#bb0000>[AAAI 2023]</font> November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 **Oral**!
 + <font color=#bb0000>[TKDE 2022]</font> November 4, 2022: our work on robust graph neural networks has been accepted by TKDE!
-+ September 23, 2022. I've joined the [PyG Team](https://github.com/pyg-team)!
++ <font color=#bb0000>[PyG Team]</font> September 23, 2022. I've joined the [PyG Team](https://github.com/pyg-team)!
 + <font color=#bb0000>[KDD 2022]</font> June 11, 2022: We will give a tutorial about "[Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection](https://ai.tencent.com/ailab/ml/twgl/)" with our collaborators.
 + <font color=#bb0000>[IJCAI 2022]</font> April 21, 2022: our work on spiking graph convolutional networks has been accepted for a **Long Oral** presentation.
 
