@@ -223,7 +223,7 @@ Note: * for corresponding author, # for equal contribution.
 + CIKM 2022 AnalytiCup Competition: Federated Hetero-Task Learning [<font color=blue>[Link]</font>](https://tianchi.aliyun.com/competition/entrance/532008/introduction) [<font color=blue>[Code]</font>](https://github.com/EdisonLeeeee/CIKM22_FL_Competition), 4th place.
 + ICDM 2022 Competition: Risk Commodities Detection on Large-Scale E-Commence Graphs [<font color=blue>[Link]</font>](https://tianchi.aliyun.com/competition/entrance/531976/introduction) [<font color=blue>[Code]</font>](https://github.com/EdisonLeeeee/ICDM2022_competition_3rd_place_solution), 3rd place.
 + FinvCup 2022: Fraud User Risk Identification [<font color=blue>[Link]</font>](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=2), [<font color=blue>[Code]</font>](https://github.com/storyandwine/GEARSage-DGraphFin), 9th place. 
-+ Ant Group ATEC 2021: truthworthy AI [<font color=blue>[Link]</font>](https://www.atecup.cn/competitionIntroduction), 2rd place. 
++ Ant Group ATEC 2021: truthworthy AI [<font color=blue>[Link]</font>](https://www.atecup.cn/competitionIntroduction), 2nd place. 
 + Spectra Review Paper Competition 2022 (Spring) winner [<font color=blue>[Link]</font>](https://mathpix.com/blog/spectra-competition-winners-spring-2022).
 + KDD Cup 2020, Adversarial Attacks and Defense on Academic Graph [<font color=blue>[Link]</font>](https://www.biendata.xyz/competition/kddcup_2020/), 2nd place.
 + Spectra Review Paper Competition 2021 [<font color=blue>[Link]</font>](https://spectra.mathpix.com/), 3rd place winner, [Graph Adversarial Learning](https://spectra.mathpix.com/article/2021.09.00012/graph-adversarial-learning).
