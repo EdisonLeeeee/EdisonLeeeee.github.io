@@ -1,0 +1,76 @@
+# jemdoc: {index.html}, nofooter  
+==Jintang Li's  Homepage
+
+~~~
+{}{img_left}{pic/bio.jpg}{alt text}{250}{260}{https://edisonleeeee.github.io/}
+PhD Student \n 
+[https://sse.sysu.edu.cn/ School of Software Engineering] \n
+[https://www.sysu.edu.cn Sun Yat-sen University] \n
+E-mail: lijt55@mail2.sysu.edu.cn \n
+\[[https://github.com/EdisonLeeeee GitHub]\] | \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]
+~~~
+
+== About me
+I am currently a PhD student at [https://www.sysu.edu.cn/ Sun Yat-sen University (SYSU)], where I am advised by [https://chenliang.tech/ Prof. Liang Chen]. I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of *Trustworthy Graph Learning*. More specifically, I work on the area of graph neural networks including their theory foundations, reliability and applications.
+
+
+#~~~
+#{}{raw}
+#<p style="color:#BB0000";><strong>Our lab has several intern positions. If you are a self-motivated student with strong interests in Software Engineering, Programming Languages, and/or Deep Learning, etc.,  please send me your CV.</strong></p> 
+#~~~
+
+My research interests include: 
+- Trustworthy Graph Learning
+- Graph Neural Networks
+- Spiking Neural Networks
+
+==  Educations
+
+- *Sun Yat-sen University*
+PhD in Software Engineering, from August 2021 to June 2025 (Expected).
+
+- *Sun Yat-sen University*
+M.S. in Electronics and Communications Engineering, from August 2019 to June 2021.
+
+==  Experiences
+
+- Research Intern in Ant Group, from February 2022 to June 2022.
+
+== Recent news
+- *(AAAI 2023)* November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 *Oral*!
+- *(TKDE 2022)* November 4, 2022: our work on robust graph neural networks has been accepted by TKDE!
+- *(PyG Team)* September 23, 2022. I've joined the [https://github.com/pyg-team PyG Team]!
+- *(KDD 2022)* June 11, 2022: We will give a tutorial about "[https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection]" with our collaborators.
+- *(IJCAI 2022)* April 21, 2022: our work on spiking graph convolutional networks has been accepted for a *Long Oral* presentation.
+- *November 19, 2022*: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 *Oral*!
+#- *2021/12.* New paper accepted at ICSE 2022.
+#- *2021/08.* New papers accepted at EMNLP 2021 and CIKM 2021.
+#- *2021/06.* New paper accepted at ICSME 2021.
+#- *2020/12.* New paper accepted at AAAI 2021.
+
+== Publications 
+#Note: * for corresponding author, \# for equal contribution.
+
+=== Conferences and Journals
+. *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
+  *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
+  In Proceedings of the 36th AAAI Conference on Artificial Intelligence. (*AAAI 2023*).\n
+  \[[https://arxiv.org/abs/2208.10364 pdf]\]
+  \[[https://github.com/EdisonLeeeee/SpikeNet code]\]
+
+=== Preprints
+. A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection \n
+  Yingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
+  arXiv, 2022. \n
+  \[[https://arxiv.org/abs/2205.10014 pdf]\]
+
+
+
+== Professional services
+- Reviewer: AAAI, IJCAI, WWW, KDD, TKDD, JMLR, LoG, etc.
+
+== Useful Links
+Deadlines: [https://ddl.yanlin.info ddl-ours], [https://ccfddl.github.io/ ddl-all] \n
+CCF list: [https://ccf.atom.im/ ccf.atom.im]
+
+# [cv.pdf A brief cv].
