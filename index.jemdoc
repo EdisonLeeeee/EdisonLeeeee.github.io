@@ -13,12 +13,6 @@ E-mail: lijt55@mail2.sysu.edu.cn \n
 == About me
 I am currently a PhD student at [https://www.sysu.edu.cn/ Sun Yat-sen University (SYSU)], where I am advised by [https://chenliang.tech/ Prof. Liang Chen]. I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of *Trustworthy Graph Learning*. More specifically, I work on the area of graph neural networks including their theory foundations, reliability and applications.
 
-
-#~~~
-#{}{raw}
-#<p style="color:#BB0000";><strong>Our lab has several intern positions. If you are a self-motivated student with strong interests in Software Engineering, Programming Languages, and/or Deep Learning, etc.,  please send me your CV.</strong></p> 
-#~~~
-
 My research interests include: 
 - Trustworthy Graph Learning
 - Graph Neural Networks
@@ -70,7 +64,7 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 - Reviewer: AAAI, IJCAI, WWW, KDD, TKDD, JMLR, LoG, etc.
 
 == Useful Links
-Deadlines: [https://ddl.yanlin.info ddl-ours], [https://ccfddl.github.io/ ddl-all] \n
+Deadlines: [https://ccfddl.github.io/ ddl-all] \n
 CCF list: [https://ccf.atom.im/ ccf.atom.im]
 
 # [cv.pdf A brief cv].
