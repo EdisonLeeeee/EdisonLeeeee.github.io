@@ -1,0 +1,81 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+== Publications 
+Note: \* for corresponding author, \# for equal contribution.
+
+=== Conferences and Journals
+. *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
+  *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen\*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
+  In Proceedings of the 36th AAAI Conference on Artificial Intelligence. (*AAAI 2023*).\n
+  \[[https://arxiv.org/abs/2208.10364 pdf]\]
+  \[[https://github.com/EdisonLeeeee/SpikeNet code]\]
+. *Spectral Adversarial Training for Robust Graph Neural Network* \n
+  *Jintang Li*, Jiaying Peng, Liang Chen\*, Zibin Zheng, Tingting Liang, Qing Ling.  \n
+  IEEE Transactions on Knowledge and Data Engineering. (*TKDE 2022*).\n
+  \[[https://arxiv.org/abs/2211.10896 pdf]\]
+  \[[https://github.com/EdisonLeeeee/SAT code]\]
+. *Unifying multi-associations through hypergraph for bundle recommendation* \n
+  Zhouxin Yu, *Jintang Li*, Liang Chen\*, Zibin Zheng.  \n
+  Knowledge-Based Systems. (*KBS 2022*).\n
+  \[[https://www.sciencedirect.com/science/article/pii/S0950705122008887 pdf]\]
+  \[[https://github.com/storyandwine/UHBR code]\]
+. *Spiking Graph Convolutional Networks* \n
+  Zulun Zhu, Jiaying Peng, *Jintang Li*, Liang Chen\*, Qi Yu, Siqiang Luo. \n
+  In Proceedings of 31th International Joint Conference on Artificial Intelligence. (*IJCAI 2022*).\n
+  \[[https://arxiv.org/abs/2205.02767 pdf]\]
+  \[[hhttps://github.com/ZulunZhu/SpikingGCN code]\]
+. *Graph Enhanced Neural Interaction Model for recommendation* \n
+  Liang Chen, Tao Xie, *Jintang Li*, Zibin Zheng\*. \n
+  Knowledge-Based Systems. (*KBS 2022*).\n
+  \[[https://www.sciencedirect.com/science/article/abs/pii/S0950705122002775 pdf]\]
+. *Understanding Structural Vulnerability in Graph Convolutional Networks* \n
+  Liang Chen, *Jintang Li*, Qibiao Peng, Yang Liu, Zibin Zheng\*, Carl Yang. \n
+  In Proceedings of 30th International Joint Conference on Artificial Intelligence. (*IJCAI 2021*). \n
+  \[[https://arxiv.org/abs/2108.06280 pdf]\]
+  \[[https://github.com/EdisonLeeeee/MedianGCN code]\]
+. *Adversarial Attack on Large Scale Graph* \n
+  *Jintang Li*, Tao Xie, Liang Chen\*, Fenfang Xie, Xiangnan He, Zibin Zheng. \n
+  IEEE Transactions on Knowledge and Data Engineering. (*TKDE 2021*). \n
+  \[[https://arxiv.org/abs/2009.03488 pdf]\]
+  \[[https://github.com/EdisonLeeeee/SGAttack code]\]
+. *GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software* \n
+  *Jintang Li*, Kun Xu, Liang Chen\*, Zibin Zheng and Xiao Liu. \n
+  In Proceedings of 43rd International Conference on Software Engineering. (*ICSE 2021*). \n
+  \[[https://arxiv.org/abs/2102.07933 pdf]\]
+  \[[https://github.com/EdisonLeeeee/GraphGallery code]\]
+. *Phishing Scams Detection in Ethereum Transaction Network*, ACM Transactions on Internet Technology* \n
+  Liang Chen, Jiaying Peng, Yang Liu, *Jintang Li*, Fenfang Xie, Zibin Zheng. \n
+  ACM Transactions on Internet Technology. (*TOIT 2021*). \n
+  \[[https://dl.acm.org/doi/10.1145/3398071 pdf]\]
+. *Deep Insights into Graph Adversarial Learning: An Empirical Study Perspective* \n
+  *Jintang Li*, Zishan Gu, Qibiao Peng, Kun Xu, Liang Chen\*, and Zibin Zheng. \n
+  Joint Workshop on Human Brain and Artificial Intelligence, in Conjunction With IJCAI-PRICAI. (*IJCAI-HBAI 2021*).
+
+=== Preprints
+. *A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection* \n
+  Yingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
+  arXiv, 2022. \n
+  \[[https://arxiv.org/abs/2205.10014 pdf]\]
+. *MaskGAE: Masked Graph Modeling Meets Graph Autoencoders* \n
+  *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
+  arXiv, 2022. \n
+  \[[https://arxiv.org/abs/2205.10053 pdf]\]
+  \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
+. *GUARD: Graph Universal Adversarial Defense* \n
+  *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
+  arXiv, 2022. \n
+  \[[https://arxiv.org/abs/2204.09803 pdf]\]
+  \[[https://github.com/EdisonLeeeee/GUARD code]\]  
+. *Recent Advances in Reliable Deep Graph Learning: Inherent Noise, Distribution Shift, and Adversarial Attack* \n
+  *Jintang Li*\#, Bingzhe Wu\#\*, Chengbin Hou, Guoji Fu, Yatao Bian, Liang Chen, Junzhou Huang. \n
+  arXiv, 2022. \n
+  \[[https://arxiv.org/abs/2202.071143 pdf]\]
+. *Neighboring Backdoor Attacks on Graph Convolutional Network* \n
+  Liang Chen\*, Qibiao Peng, *Jintang Li*, Yang Liu, Jiawei Chen, Yong Li, Zibin Zheng. \n
+  arXiv, 2022. \n
+  \[[https://arxiv.org/abs/2201.06202 pdf]\]
+  \[[https://github.com/EdisonLeeeee/GreatX code]\]   
+. *A Survey of Adversarial Learning on Graphs* \n
+  Liang Chen\*, *Jintang Li*, Jiaying Peng, Tao Xie, Zengxu Cao, Kun Xu, Xiangnan He, Zibin Zheng. \n
+  arXiv, 2020. \n
+  \[[https://arxiv.org/abs/2003.05730 pdf]\]  
+  \[[https://github.com/gitgiter/Graph-Adversarial-Learning paper list]\]   

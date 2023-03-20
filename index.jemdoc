@@ -1,17 +1,19 @@
-# jemdoc: {index.html}, nofooter  
+# jemdoc: menu{MENU}{index.html}, nofooter  
 ==Jintang Li's  Homepage
 
 ~~~
 {}{img_left}{pic/bio.jpg}{alt text}{250}{260}{https://edisonleeeee.github.io/}
-PhD Student \n 
+Ph.D Student \n 
 [https://sse.sysu.edu.cn/ School of Software Engineering] \n
 [https://www.sysu.edu.cn Sun Yat-sen University] \n
+[https://github.com/pyg-team PyG Team]
+
 E-mail: lijt55@mail2.sysu.edu.cn \n
-\[[https://github.com/EdisonLeeeee GitHub]\] | \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]
+\[[https://github.com/EdisonLeeeee GitHub]\]  \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]  \[[https://dblp.uni-trier.de/pid/260/6811.html DBLP]\]
 ~~~
 
 == About me
-I am currently a PhD student at [https://www.sysu.edu.cn/ Sun Yat-sen University (SYSU)], where I am advised by [https://chenliang.tech/ Prof. Liang Chen]. I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of *Trustworthy Graph Learning*. More specifically, I work on the area of graph neural networks including their theory foundations, reliability and applications.
+I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen University (SYSU)], where I am advised by [https://chenliang.tech/ Prof. Liang Chen]. I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of *Trustworthy Graph Learning*. More specifically, I work on the area of graph neural networks including their theory foundations, reliability and applications.
 
 My research interests include: 
 - Trustworthy Graph Learning
@@ -21,7 +23,7 @@ My research interests include:
 ==  Educations
 
 - *Sun Yat-sen University*
-PhD in Software Engineering, from August 2021 to June 2025 (Expected).
+Ph.D in Software Engineering, from August 2021 to June 2025 (Expected).
 
 - *Sun Yat-sen University*
 M.S. in Electronics and Communications Engineering, from August 2019 to June 2021.
@@ -31,40 +33,112 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 - Research Intern in Ant Group, from February 2022 to June 2022.
 
 == Recent news
-- *(AAAI 2023)* November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 *Oral*!
-- *(TKDE 2022)* November 4, 2022: our work on robust graph neural networks has been accepted by TKDE!
-- *(PyG Team)* September 23, 2022. I've joined the [https://github.com/pyg-team PyG Team]!
-- *(KDD 2022)* June 11, 2022: We will give a tutorial about "[https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection]" with our collaborators.
-- *(IJCAI 2022)* April 21, 2022: our work on spiking graph convolutional networks has been accepted for a *Long Oral* presentation.
-- *November 19, 2022*: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 *Oral*!
-#- *2021/12.* New paper accepted at ICSE 2022.
-#- *2021/08.* New papers accepted at EMNLP 2021 and CIKM 2021.
-#- *2021/06.* New paper accepted at ICSME 2021.
-#- *2020/12.* New paper accepted at AAAI 2021.
 
-== Publications 
-#Note: * for corresponding author, \# for equal contribution.
+- \[*AAAI 2023*\] November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 *Oral*!
+- \[*TKDE 2022*\] November 4, 2022: our work on robust graph neural networks has been accepted by TKDE!
+- \[*PyG Team*\] September 23, 2022. I've joined the [https://github.com/pyg-team PyG Team]!
+- \[*KDD 2022*\] June 11, 2022: We will give a tutorial about [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection]with our collaborators.
+- \[*IJCAI 2022*\] April 21, 2022: our work on spiking graph convolutional networks has been accepted for a *Long Oral* presentation.
+
+== Selected Publications 
+
+Note: \* for corresponding author, \# for equal contribution. \n 
+Please find my full list of publications in the following [publications.html link].
 
 === Conferences and Journals
+
 . *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
-  *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
+  *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen\*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
   In Proceedings of the 36th AAAI Conference on Artificial Intelligence. (*AAAI 2023*).\n
   \[[https://arxiv.org/abs/2208.10364 pdf]\]
   \[[https://github.com/EdisonLeeeee/SpikeNet code]\]
+. *Spectral Adversarial Training for Robust Graph Neural Network* \n
+  *Jintang Li*, Jiaying Peng, Liang Chen\*, Zibin Zheng, Tingting Liang, Qing Ling.  \n
+  IEEE Transactions on Knowledge and Data Engineering. (*TKDE 2022*).\n
+  \[[https://arxiv.org/abs/2211.10896 pdf]\]
+  \[[https://github.com/EdisonLeeeee/SAT code]\]
+. *Spiking Graph Convolutional Networks* \n
+  Zulun Zhu, Jiaying Peng, *Jintang Li*, Liang Chen\*, Qi Yu, Siqiang Luo. \n
+  In Proceedings of 31th International Joint Conference on Artificial Intelligence. (*IJCAI 2022*).\n
+  \[[https://arxiv.org/abs/2205.02767 pdf]\]
+  \[[hhttps://github.com/ZulunZhu/SpikingGCN code]\]
+. *Understanding Structural Vulnerability in Graph Convolutional Networks* \n
+  Liang Chen, *Jintang Li*, Qibiao Peng, Yang Liu, Zibin Zheng\*, Carl Yang. \n
+  In Proceedings of 30th International Joint Conference on Artificial Intelligence. (*IJCAI 2021*). \n
+  \[[https://arxiv.org/abs/2108.06280 pdf]\]
+  \[[https://github.com/EdisonLeeeee/MedianGCN code]\]
+. *Adversarial Attack on Large Scale Graph* \n
+  *Jintang Li*, Tao Xie, Liang Chen\*, Fenfang Xie, Xiangnan He, Zibin Zheng. \n
+  IEEE Transactions on Knowledge and Data Engineering. (*TKDE 2021*). \n
+  \[[https://arxiv.org/abs/2009.03488 pdf]\]
+  \[[https://github.com/EdisonLeeeee/SGAttack code]\]
+. *GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software* \n
+  *Jintang Li*, Kun Xu, Liang Chen\*, Zibin Zheng and Xiao Liu. \n
+  In Proceedings of 43rd International Conference on Software Engineering. (*ICSE 2021*). \n
+  \[[https://arxiv.org/abs/2102.07933 pdf]\]
+  \[[https://github.com/EdisonLeeeee/GraphGallery code]\]
 
 === Preprints
-. A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection \n
+
+. *A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection* \n
   Yingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
   arXiv, 2022. \n
   \[[https://arxiv.org/abs/2205.10014 pdf]\]
+. *MaskGAE: Masked Graph Modeling Meets Graph Autoencoders* \n
+  *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
+  arXiv, 2022. \n
+  \[[https://arxiv.org/abs/2205.10053 pdf]\]
+  \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
+. *GUARD: Graph Universal Adversarial Defense* \n
+  *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
+  arXiv, 2022. \n
+  \[[https://arxiv.org/abs/2204.09803 pdf]\]
+  \[[https://github.com/EdisonLeeeee/GUARD code]\]  
+. *Recent Advances in Reliable Deep Graph Learning: Inherent Noise, Distribution Shift, and Adversarial Attack* \n
+  *Jintang Li*\#, Bingzhe Wu\#\*, Chengbin Hou, Guoji Fu, Yatao Bian, Liang Chen, Junzhou Huang. \n
+  arXiv, 2022. \n
+  \[[https://arxiv.org/abs/2202.071143 pdf]\] 
+. *A Survey of Adversarial Learning on Graphs* \n
+  Liang Chen\*, *Jintang Li*, Jiaying Peng, Tao Xie, Zengxu Cao, Kun Xu, Xiangnan He, Zibin Zheng. \n
+  arXiv, 2020. \n
+  \[[https://arxiv.org/abs/2003.05730 pdf]\]  
+  \[[https://github.com/gitgiter/Graph-Adversarial-Learning paper list]\]   
 
+== Projects
 
+. [https://github.com/pyg-team/pytorch_geometric PyTorch Geometric] (collaborator): Graph Neural Network Library for PyTorch.
+. [https://github.com/EdisonLeeeee/GraphGallery GraphGallery]: A gallery for benchmarking Graph Neural Networks (GNNs).
+. [https://github.com/EdisonLeeeee/GreatX GreatX]: A graph reliability toolbox based on PyTorch and PyTorch Geometric.
+. [https://github.com/EdisonLeeeee/Mooon Mooon]: A graph data augmentation library based on PyTorch and PyTorch Geometric.
+. [https://github.com/EdisonLeeeee/Graph-Adversarial-Learning Awesome Graph Adversarial Learning]: A curated collection of adversarial attack and defense on graph data.
+. [https://github.com/EdisonLeeeee/Awesome-Fair-Graph-Learning Awesome Fair Graph Learning]: Paper Lists for Fair Graph Learning (FairGL).
+. [https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders Awesome Masked Autoencoders]: A collection of literature after or concurrent with Masked Autoencoder (MAE) (Kaiming He el al.).
+
+== Rewards
+
+. Ant Group Green Computing Contest. \[[https://www.atecup.cn/greenComputingHome Link]\], 2nd place.
+. CIKM 2022 AnalytiCup Competition: Federated Hetero-Task Learning. \[[https://tianchi.aliyun.com/competition/entrance/532008/introduction Link] \[[https://github.com/EdisonLeeeee/CIKM22_FL_Competition Code]\], 4th place.
+. ICDM 2022 Competition: Risk Commodities Detection on Large-Scale E-Commence Graphs. \[[https://tianchi.aliyun.com/competition/entrance/531976/introduction Link]\] \[[https://github.com/EdisonLeeeee/ICDM2022_competition_3rd_place_solution Code]\], 3rd place.
+. FinvCup 2022: Fraud User Risk Identification. \[[https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=2 Link]\], \[[https://github.com/storyandwine/GEARSage-DGraphFin Code]\], 9th place. 
+. Ant Group ATEC 2021: truthworthy AI. \[[https://www.atecup.cn/competitionIntroduction Link]\], 2nd place. 
+. Spectra Review Paper Competition 2022 (Spring) winner. \[[https://mathpix.com/blog/spectra-competition-winners-spring-2022 Link]\].
+. KDD Cup 2020, Adversarial Attacks and Defense on Academic Graph. \[[https://www.biendata.xyz/competition/kddcup_2020/ Link]\], 2nd place.
+. Spectra Review Paper Competition 2021. \[[https://spectra.mathpix.com/ Link]\], 3rd place winner with \[[https://spectra.mathpix.com/article/2021.09.00012/graph-adversarial-learning Introduction on Graph Adversarial Learning]\].
+. Ant Group ATEC 2021 online, Track 2: Fraud detection of digital currency transactions. \[[https://www.atecup.cn/competitionIntroduction Link]\], 4th place. 
+
+== Talks
+
+. KDD 2022 tutorial: [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection].
+. AI TIME IJCAI 2021: [https://www.bilibili.com/video/BV1RS4y1Q7Wq Understanding Structural Vulnerability in Graph Convolutional Networks] (in Chinese).
+
+== Scholarship
+. National Scholarship: 2022 in Sun Yat-sen University
 
 == Professional services
-- Reviewer: AAAI, IJCAI, WWW, KDD, TKDD, JMLR, LoG, etc.
+- Reviewer: AAAI, IJCAI, WWW, KDD, LoG, TKDD, JMLR, etc.
 
 == Useful Links
-Deadlines: [https://ccfddl.github.io/ ddl-all] \n
+Deadlines: [https://ccfddl.github.io/ ccf-ddl] \n
 CCF list: [https://ccf.atom.im/ ccf.atom.im]
 
 # [cv.pdf A brief cv].
