@@ -1,3 +1,4 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter  
 == Projects
 
 . [https://github.com/pyg-team/pytorch_geometric PyTorch Geometric] (collaborator): Graph Neural Network Library for PyTorch.
