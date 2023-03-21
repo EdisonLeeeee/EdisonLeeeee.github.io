@@ -9,14 +9,14 @@ Ph.D Student \n
 [https://github.com/pyg-team PyG Team]
 
 E-mail: lijt55@mail2.sysu.edu.cn \n
-\[[https://github.com/EdisonLeeeee GitHub]\]  \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]  \[[https://dblp.uni-trier.de/pid/260/6811.html DBLP]\]
+\[[https://github.com/EdisonLeeeee GitHub]\]  \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]  \[[https://dblp.uni-trier.de/pid/260/6811.html DBLP]\] \[[https://www.zhihu.com/people/Edisonleejt 知乎]\]
 ~~~
 
 == About me
-I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen University (SYSU)], where I am advised by [https://chenliang.tech/ Prof. Liang Chen]. I received the master's degree from Sun Yat-sen University in 2021. My research interests are in the area of *Trustworthy Graph Learning*. More specifically, I work on the area of graph neural networks including their theory foundations, reliability and applications.
+I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen University (SYSU)], where I am advised by [https://chenliang.tech/ Prof. Liang Chen]. I received the master's degree from Sun Yat-sen University in 2021.
 
 My research interests include: 
-- Trustworthy Graph Learning
+- Trustworthy Graph Learning: reliability, fairness, etc.
 - Graph Neural Networks
 - Spiking Neural Networks
 
@@ -34,16 +34,16 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
-- \[*AAAI 2023*\] November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 *Oral*!
-- \[*TKDE 2022*\] November 4, 2022: our work on robust graph neural networks has been accepted by TKDE!
-- \[*PyG Team*\] September 23, 2022. I've joined the [https://github.com/pyg-team PyG Team]!
-- \[*KDD 2022*\] June 11, 2022: We will give a tutorial about [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection]with our collaborators.
-- \[*IJCAI 2022*\] April 21, 2022: our work on spiking graph convolutional networks has been accepted for a *Long Oral* presentation.
+- \[AAAI 2023\] November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 Oral!
+- \[TKDE 2022\] November 4, 2022: our work on robust graph neural networks has been accepted by TKDE!
+- \[PyG Team\] September 23, 2022. I've joined the [https://github.com/pyg-team PyG Team]!
+- \[KDD 2022\] June 11, 2022: We will give a tutorial about [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection] with our collaborators.
+- \[IJCAI 2022\] April 21, 2022: our work on spiking graph convolutional networks has been accepted for a Long Oral presentation.
 
 == Selected Publications 
 
 Note: \* for corresponding author, \# for equal contribution. \n 
-Please find my full list of publications in the following [publications.html link].
+Please find my full list of publications in the following [publications.html Link].
 
 === Conferences and Journals
 
@@ -102,7 +102,7 @@ Please find my full list of publications in the following [publications.html lin
   Liang Chen\*, *Jintang Li*, Jiaying Peng, Tao Xie, Zengxu Cao, Kun Xu, Xiangnan He, Zibin Zheng. \n
   arXiv, 2020. \n
   \[[https://arxiv.org/abs/2003.05730 pdf]\]  
-  \[[https://github.com/gitgiter/Graph-Adversarial-Learning paper list]\]   
+  \[[https://github.com/gitgiter/Graph-Adversarial-Learning github]\]   
 
 == Projects
 
