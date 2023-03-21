@@ -1,11 +1,13 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Jintang Li's  Homepage
+== Jintang Li's  Homepage
 
 ~~~
 {}{img_left}{pic/bio.jpg}{alt text}{250}{260}{https://edisonleeeee.github.io/}
+Jintang Li (李金膛) \n
 Ph.D Student \n 
+
 [https://sse.sysu.edu.cn/ School of Software Engineering] \n
-[https://www.sysu.edu.cn Sun Yat-sen University] \n
+[https://www.sysu.edu.cn Sun Yat-sen University (SYSU)] \n
 [https://github.com/pyg-team PyG Team]
 
 E-mail: lijt55@mail2.sysu.edu.cn \n
@@ -13,7 +15,7 @@ E-mail: lijt55@mail2.sysu.edu.cn \n
 ~~~
 
 == About me
-I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen University (SYSU)], where I am advised by [https://chenliang.tech/ Prof. Liang Chen]. I received the master's degree from Sun Yat-sen University in 2021.
+I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen University], where I am advised by [https://chenliang.tech/ Prof. Liang Chen]. I received the master's degree from Sun Yat-sen University in 2021.
 
 My research interests include: 
 - Trustworthy Graph Learning: reliability, fairness, etc.
@@ -112,19 +114,19 @@ Please find my full list of publications in the following [publications.html Lin
 . [https://github.com/EdisonLeeeee/Mooon Mooon]: A graph data augmentation library based on PyTorch and PyTorch Geometric.
 . [https://github.com/EdisonLeeeee/Graph-Adversarial-Learning Awesome Graph Adversarial Learning]: A curated collection of adversarial attack and defense on graph data.
 . [https://github.com/EdisonLeeeee/Awesome-Fair-Graph-Learning Awesome Fair Graph Learning]: Paper Lists for Fair Graph Learning (FairGL).
-. [https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders Awesome Masked Autoencoders]: A collection of literature after or concurrent with Masked Autoencoder (MAE) (Kaiming He el al.).
+. [https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders Awesome Masked Autoencoders]: A collection of literature after or concurrent with Masked Autoencoder (MAE).
 
 == Rewards
 
-. Ant Group Green Computing Contest. \[[https://www.atecup.cn/greenComputingHome Link]\], 2nd place.
-. CIKM 2022 AnalytiCup Competition: Federated Hetero-Task Learning. \[[https://tianchi.aliyun.com/competition/entrance/532008/introduction Link] \[[https://github.com/EdisonLeeeee/CIKM22_FL_Competition Code]\], 4th place.
-. ICDM 2022 Competition: Risk Commodities Detection on Large-Scale E-Commence Graphs. \[[https://tianchi.aliyun.com/competition/entrance/531976/introduction Link]\] \[[https://github.com/EdisonLeeeee/ICDM2022_competition_3rd_place_solution Code]\], 3rd place.
-. FinvCup 2022: Fraud User Risk Identification. \[[https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=2 Link]\], \[[https://github.com/storyandwine/GEARSage-DGraphFin Code]\], 9th place. 
-. Ant Group ATEC 2021: truthworthy AI. \[[https://www.atecup.cn/competitionIntroduction Link]\], 2nd place. 
-. Spectra Review Paper Competition 2022 (Spring) winner. \[[https://mathpix.com/blog/spectra-competition-winners-spring-2022 Link]\].
-. KDD Cup 2020, Adversarial Attacks and Defense on Academic Graph. \[[https://www.biendata.xyz/competition/kddcup_2020/ Link]\], 2nd place.
-. Spectra Review Paper Competition 2021. \[[https://spectra.mathpix.com/ Link]\], 3rd place winner with \[[https://spectra.mathpix.com/article/2021.09.00012/graph-adversarial-learning Introduction on Graph Adversarial Learning]\].
-. Ant Group ATEC 2021 online, Track 2: Fraud detection of digital currency transactions. \[[https://www.atecup.cn/competitionIntroduction Link]\], 4th place. 
+. Ant Group Green Computing Contest. \[[https://www.atecup.cn/greenComputingHome Link]\], 🥈2nd place.
+. CIKM 2022 AnalytiCup Competition: Federated Hetero-Task Learning. \[[https://tianchi.aliyun.com/competition/entrance/532008/introduction Link] \[[https://github.com/EdisonLeeeee/CIKM22_FL_Competition Code]\], 🏅4th place.
+. ICDM 2022 Competition: Risk Commodities Detection on Large-Scale E-Commence Graphs. \[[https://tianchi.aliyun.com/competition/entrance/531976/introduction Link]\] \[[https://github.com/EdisonLeeeee/ICDM2022_competition_3rd_place_solution Code]\], 🥉3rd place.
+. FinvCup 2022: Fraud User Risk Identification. \[[https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=28&tabindex=2 Link]\], \[[https://github.com/storyandwine/GEARSage-DGraphFin Code]\], 🏅9th place. 
+. Ant Group ATEC 2021: truthworthy AI. \[[https://www.atecup.cn/competitionIntroduction Link]\], 🥈2nd place. 
+. Spectra Review Paper Competition 2022 (Spring) 🏆winner. \[[https://mathpix.com/blog/spectra-competition-winners-spring-2022 Link]\].
+. KDD Cup 2020, Adversarial Attacks and Defense on Academic Graph. \[[https://www.biendata.xyz/competition/kddcup_2020/ Link]\], 🥈2nd place.
+. Spectra Review Paper Competition 2021. \[[https://spectra.mathpix.com/ Link]\], 🥉3rd place winner with \[[https://spectra.mathpix.com/article/2021.09.00012/graph-adversarial-learning Introduction on Graph Adversarial Learning]\].
+. Ant Group ATEC 2021 online, Track 2: Fraud detection of digital currency transactions. \[[https://www.atecup.cn/competitionIntroduction Link]\], 🏅4th place. 
 
 == Talks
 
