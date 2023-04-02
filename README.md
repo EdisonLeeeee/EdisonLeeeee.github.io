@@ -1,10 +1,10 @@
 ### Jemdoc-style homepage
-+ clonee this repository:
++ clone this repository:
 ```bash
 git clone https://github.com/EdisonLeeeee/EdisonLeeeee.github.io.git
 ```
-+ write your `index.jemdoc` file
-+ run:
++ write your `jemdoc` file, e.g., `index.jemdoc`
++ generate pages, run:
 ```bash
 python jemdoc.py index.jemdoc
 ```
