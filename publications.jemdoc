@@ -3,6 +3,16 @@
 Note: \* for corresponding author, \# for equal contribution.
 
 === Conferences and Journals
+. *MaskGAE: Masked Graph Modeling Meets Graph Autoencoders* \n
+  *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
+  In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (*KDD 2023*). \n
+  \[[https://arxiv.org/abs/2205.10053 pdf]\]
+  \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
+. *SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs* \n
+  Sheng Tian, Jihai Dong, *Jintang Li*, Wenlong Zhao, Xiaolong Xu, Baokun wang, Bowen Song, Changhua Meng, Tianyi Zhang, Liang Chen. \n
+  In Proceedings of 32nd International Joint Conference on Artificial Intelligence. (*IJCAI 2023*) \n
+  \[[https://arxiv.org/abs/2205.10053 pdf]\]
+  \[[https://github.com/D10Andy/SAD code]\]  
 . *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
   *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen\*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
   In Proceedings of the 36th AAAI Conference on Artificial Intelligence. (*AAAI 2023*).\n
@@ -55,11 +65,6 @@ Note: \* for corresponding author, \# for equal contribution.
   Yingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
   arXiv, 2022. \n
   \[[https://arxiv.org/abs/2205.10014 pdf]\]
-. *MaskGAE: Masked Graph Modeling Meets Graph Autoencoders* \n
-  *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
-  arXiv, 2022. \n
-  \[[https://arxiv.org/abs/2205.10053 pdf]\]
-  \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
 . *GUARD: Graph Universal Adversarial Defense* \n
   *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
   arXiv, 2022. \n
