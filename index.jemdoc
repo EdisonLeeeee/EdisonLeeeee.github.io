@@ -36,6 +36,8 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- \[KDD 2023\] May 18, 2023: our work on Understanding Masked Graph Modeling for Graph Autoencoders has been accepted by KDD 2023!
+- \[IJCAI 2023\] April 20, 2023: our collaboration with Ant Group on Semi-Supervised Anomaly Detection has been accepted by IJCAI 2023!
 - \[AAAI 2023\] November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 Oral!
 - \[TKDE 2022\] November 4, 2022: our work on robust graph neural networks has been accepted by TKDE!
 - \[PyG Team\] September 23, 2022. I've joined the [https://github.com/pyg-team PyG Team]!
@@ -48,7 +50,16 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [publications.html Link].
 
 === Conferences and Journals
-
+. *MaskGAE: Masked Graph Modeling Meets Graph Autoencoders* \n
+  *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
+  In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (*KDD 2023*). \n
+  \[[https://arxiv.org/abs/2205.10053 pdf]\]
+  \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
+. *SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs* \n
+  Sheng Tian, Jihai Dong, *Jintang Li*, Wenlong Zhao, Xiaolong Xu, Baokun wang, Bowen Song, Changhua Meng, Tianyi Zhang, Liang Chen. \n
+  In Proceedings of 32nd International Joint Conference on Artificial Intelligence. (*IJCAI 2023*) \n
+  \[[https://arxiv.org/abs/2205.10053 pdf]\]
+  \[[https://github.com/D10Andy/SAD code]\]  
 . *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
   *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen\*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
   In Proceedings of the 36th AAAI Conference on Artificial Intelligence. (*AAAI 2023*).\n
@@ -61,7 +72,7 @@ Please find my full list of publications in the following [publications.html Lin
   \[[https://github.com/EdisonLeeeee/SAT code]\]
 . *Spiking Graph Convolutional Networks* \n
   Zulun Zhu, Jiaying Peng, *Jintang Li*, Liang Chen\*, Qi Yu, Siqiang Luo. \n
-  In Proceedings of 31th International Joint Conference on Artificial Intelligence. (*IJCAI 2022*).\n
+  In Proceedings of 31rd International Joint Conference on Artificial Intelligence. (*IJCAI 2022*).\n
   \[[https://arxiv.org/abs/2205.02767 pdf]\]
   \[[hhttps://github.com/ZulunZhu/SpikingGCN code]\]
 . *Understanding Structural Vulnerability in Graph Convolutional Networks* \n
@@ -86,11 +97,6 @@ Please find my full list of publications in the following [publications.html Lin
   Yingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
   arXiv, 2022. \n
   \[[https://arxiv.org/abs/2205.10014 pdf]\]
-. *MaskGAE: Masked Graph Modeling Meets Graph Autoencoders* \n
-  *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
-  arXiv, 2022. \n
-  \[[https://arxiv.org/abs/2205.10053 pdf]\]
-  \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
 . *GUARD: Graph Universal Adversarial Defense* \n
   *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
   arXiv, 2022. \n
