@@ -11,7 +11,7 @@ Note: \* for corresponding author, \# for equal contribution.
 . *SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs* \n
   Sheng Tian, Jihai Dong, *Jintang Li*, Wenlong Zhao, Xiaolong Xu, Baokun wang, Bowen Song, Changhua Meng, Tianyi Zhang, Liang Chen. \n
   In Proceedings of 32nd International Joint Conference on Artificial Intelligence. (*IJCAI 2023*) \n
-  \[[https://arxiv.org/abs/2205.10053 pdf]\]
+  \[[https://arxiv.org/abs/2305.13573 pdf]\]
   \[[https://github.com/D10Andy/SAD code]\]  
 . *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
   *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen\*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
