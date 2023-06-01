@@ -93,13 +93,18 @@ Please find my full list of publications in the following [publications.html Lin
 
 === Preprints
 
+. *A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks* \n
+  *Jintang Li*, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Liang Chen\*, Zibin Zheng, Baokun Wang, Changhua Meng. \n
+  arXiv, 2023. \n
+  \[[https://arxiv.org/abs/2305.19306 pdf]\]
+  \[[https://github.com/EdisonLeeeee/SpikeGCL code]\]  
 . *Less Can Be More: Unsupervised Graph Pruning for Large-scale Dynamic Graphs* \n
-  *Jintang Li*\#, Sheng Tian\#, Ruofan Wu, Liang Zhu, Welong Zhao, Changhua Meng, Liang Chen, Zibin Zheng, Hongzhi Yin. \n
+  *Jintang Li*\#, Sheng Tian\#, Ruofan Wu, Liang Zhu, Welong Zhao, Changhua Meng, Liang Chen\*, Zibin Zheng, Hongzhi Yin. \n
   arXiv, 2023. \n
   \[[https://arxiv.org/abs/2305.10673 pdf]\]
   \[[https://github.com/EdisonLeeeee/STEP code]\]  
 . *A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection* \n
-  Bingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
+  Bingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen\*, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
   arXiv, 2022. \n
   \[[https://arxiv.org/abs/2205.10014 pdf]\]
 . *GUARD: Graph Universal Adversarial Defense* \n
@@ -110,7 +115,7 @@ Please find my full list of publications in the following [publications.html Lin
 . *Recent Advances in Reliable Deep Graph Learning: Inherent Noise, Distribution Shift, and Adversarial Attack* \n
   *Jintang Li*\#, Bingzhe Wu\#\*, Chengbin Hou, Guoji Fu, Yatao Bian, Liang Chen, Junzhou Huang. \n
   arXiv, 2022. \n
-  \[[https://arxiv.org/abs/2202.071143 pdf]\] 
+  \[[https://arxiv.org/abs/2202.07114 pdf]\] 
 . *A Survey of Adversarial Learning on Graphs* \n
   Liang Chen\*, *Jintang Li*, Jiaying Peng, Tao Xie, Zengxu Cao, Kun Xu, Xiangnan He, Zibin Zheng. \n
   arXiv, 2020. \n
