@@ -52,47 +52,52 @@ Please find my full list of publications in the following [publications.html Lin
 === Conferences and Journals
 . *What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders* \n
   *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
-  In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (*KDD 2023*). \n
+  In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2023*). \n
   \[[https://arxiv.org/abs/2205.10053 pdf]\]
   \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
 . *SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs* \n
   Sheng Tian, Jihai Dong, *Jintang Li*, Wenlong Zhao, Xiaolong Xu, Baokun wang, Bowen Song, Changhua Meng, Tianyi Zhang, Liang Chen. \n
-  In Proceedings of 32nd International Joint Conference on Artificial Intelligence. (*IJCAI 2023*). \n
+  In Proceedings of 32nd International Joint Conference on Artificial Intelligence (*IJCAI 2023*). \n
   \[[https://arxiv.org/abs/2305.13573 pdf]\]
   \[[https://github.com/D10Andy/SAD code]\]  
 . *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
   *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen\*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
-  In Proceedings of the 36th AAAI Conference on Artificial Intelligence. (*AAAI 2023*).\n
+  In Proceedings of the 36th AAAI Conference on Artificial Intelligence (*AAAI 2023*). \n
   \[[https://arxiv.org/abs/2208.10364 pdf]\]
   \[[https://github.com/EdisonLeeeee/SpikeNet code]\]
 . *Spectral Adversarial Training for Robust Graph Neural Network* \n
   *Jintang Li*, Jiaying Peng, Liang Chen\*, Zibin Zheng, Tingting Liang, Qing Ling.  \n
-  IEEE Transactions on Knowledge and Data Engineering. (*TKDE 2022*).\n
+  IEEE Transactions on Knowledge and Data Engineering (*TKDE 2022*). \n
   \[[https://arxiv.org/abs/2211.10896 pdf]\]
   \[[https://github.com/EdisonLeeeee/SAT code]\]
 . *Spiking Graph Convolutional Networks* \n
   Zulun Zhu, Jiaying Peng, *Jintang Li*, Liang Chen\*, Qi Yu, Siqiang Luo. \n
-  In Proceedings of 31rd International Joint Conference on Artificial Intelligence. (*IJCAI 2022*).\n
+  In Proceedings of 31rd International Joint Conference on Artificial Intelligence (*IJCAI 2022*). \n
   \[[https://arxiv.org/abs/2205.02767 pdf]\]
   \[[hhttps://github.com/ZulunZhu/SpikingGCN code]\]
 . *Understanding Structural Vulnerability in Graph Convolutional Networks* \n
   Liang Chen, *Jintang Li*, Qibiao Peng, Yang Liu, Zibin Zheng\*, Carl Yang. \n
-  In Proceedings of 30th International Joint Conference on Artificial Intelligence. (*IJCAI 2021*). \n
+  In Proceedings of 30th International Joint Conference on Artificial Intelligence (*IJCAI 2021*). \n
   \[[https://arxiv.org/abs/2108.06280 pdf]\]
   \[[https://github.com/EdisonLeeeee/MedianGCN code]\]
 . *Adversarial Attack on Large Scale Graph* \n
   *Jintang Li*, Tao Xie, Liang Chen\*, Fenfang Xie, Xiangnan He, Zibin Zheng. \n
-  IEEE Transactions on Knowledge and Data Engineering. (*TKDE 2021*). \n
+  IEEE Transactions on Knowledge and Data Engineering (*TKDE 2021*). \n
   \[[https://arxiv.org/abs/2009.03488 pdf]\]
   \[[https://github.com/EdisonLeeeee/SGAttack code]\]
 . *GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software* \n
   *Jintang Li*, Kun Xu, Liang Chen\*, Zibin Zheng and Xiao Liu. \n
-  In Proceedings of 43rd International Conference on Software Engineering. (*ICSE 2021*). \n
+  In Proceedings of 43rd International Conference on Software Engineering (*ICSE 2021*). \n
   \[[https://arxiv.org/abs/2102.07933 pdf]\]
   \[[https://github.com/EdisonLeeeee/GraphGallery code]\]
 
 === Preprints
 
+. *Scaling Up, Scaling Deep: Blockwise Graph Contrastive Learning* \n
+  *Jintang Li*, Wangbin Sun, Ruofan Wu, Yuchang Zhu, Liang Chen, Zibin Zheng. \n
+  arXiv, 2023. \n
+  \[[https://arxiv.org/abs/2306.02117 pdf]\]
+  \[[https://github.com/EdisonLeeeee/BlockGCL code]\]  
 . *A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks* \n
   *Jintang Li*, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Liang Chen\*, Zibin Zheng, Baokun Wang, Changhua Meng. \n
   arXiv, 2023. \n
