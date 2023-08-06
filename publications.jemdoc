@@ -3,6 +3,11 @@
 Note: \* for corresponding author, \# for equal contribution.
 
 === Conferences and Journals
+. *GUARD: Graph Universal Adversarial Defense* \n
+  *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
+  In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n
+  \[[https://arxiv.org/abs/2204.09803 pdf]\]
+  \[[https://github.com/EdisonLeeeee/GUARD code]\]  
 . *What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders* \n
   *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
   In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2023*). \n
@@ -81,11 +86,6 @@ Note: \* for corresponding author, \# for equal contribution.
   Bingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen\*, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
   arXiv, 2022. \n
   \[[https://arxiv.org/abs/2205.10014 pdf]\]
-. *GUARD: Graph Universal Adversarial Defense* \n
-  *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
-  arXiv, 2022. \n
-  \[[https://arxiv.org/abs/2204.09803 pdf]\]
-  \[[https://github.com/EdisonLeeeee/GUARD code]\]  
 . *Recent Advances in Reliable Deep Graph Learning: Inherent Noise, Distribution Shift, and Adversarial Attack* \n
   *Jintang Li*\#, Bingzhe Wu\#\*, Chengbin Hou, Guoji Fu, Yatao Bian, Liang Chen, Junzhou Huang. \n
   arXiv, 2022. \n
