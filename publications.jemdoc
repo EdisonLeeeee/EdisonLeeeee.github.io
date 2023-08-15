@@ -11,6 +11,8 @@ Note: \* for corresponding author, \# for equal contribution.
 . *SAILOR: Structural Augmentation Based Tail Node Representation Learninge* \n
   Jie Liao, *Jintang Li*, Liang Chen\*, Bingzhe Wu, Yatao Bian, Zibin Zheng. \n
   In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n  
+  \[[https://arxiv.org/abs/2308.06801 pdf]\]
+  \[[https://github.com/Jie-Re/SAILOR code]\]    
 . *What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders* \n
   *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
   In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2023*). \n
