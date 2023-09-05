@@ -3,6 +3,11 @@
 Note: \* for corresponding author, \# for equal contribution.
 
 === Conferences and Journals
+. *Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding* \n
+  Xinzhou Jin, *Jintang Li*, Yuanzhen Xie, Liang Chen\*, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, Zibin Zheng. \n
+  In Proceedings of the 23rd IEEE International Conference on Data Mining (*ICDM 2023*). \n
+  \[[ pdf]\]
+  \[[ code]\]  
 . *GUARD: Graph Universal Adversarial Defense* \n
   *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
   In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n
