@@ -13,7 +13,7 @@ Note: \* for corresponding author, \# for equal contribution.
   In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n
   \[[https://arxiv.org/abs/2204.09803 pdf]\]
   \[[https://github.com/EdisonLeeeee/GUARD code]\]  
-. *SAILOR: Structural Augmentation Based Tail Node Representation Learninge* \n
+. *SAILOR: Structural Augmentation Based Tail Node Representation Learning* \n
   Jie Liao, *Jintang Li*, Liang Chen\*, Bingzhe Wu, Yatao Bian, Zibin Zheng. \n
   In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n  
   \[[https://arxiv.org/abs/2308.06801 pdf]\]
@@ -77,8 +77,13 @@ Note: \* for corresponding author, \# for equal contribution.
 
 === Preprints
 
+. *Hetero\$^2\$Net: Heterophily-aware Representation Learning on Heterogenerous Graphs* \n
+  *Jintang Li*, Zheng Wei, Jiawang Dan, Jing Zhou, Yuchang Zhu, Ruofan Wu, Baokun Wang, Zhang Zhen, Changhua Meng, Hong Jin, Zibin Zheng, Liang Chen\*. \n
+  arXiv, 2023. \n
+  \[[https://arxiv.org/abs/2310.11664 pdf]\]
+  \[[https://github.com/EdisonLeeeee/Hetero2Net code]\]  
 . *Scaling Up, Scaling Deep: Blockwise Graph Contrastive Learning* \n
-  *Jintang Li*, Wangbin Sun, Ruofan Wu, Yuchang Zhu, Liang Chen, Zibin Zheng. \n
+  *Jintang Li*, Wangbin Sun, Ruofan Wu, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
   arXiv, 2023. \n
   \[[https://arxiv.org/abs/2306.02117 pdf]\]
   \[[https://github.com/EdisonLeeeee/BlockGCL code]\]  
