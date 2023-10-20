@@ -37,8 +37,10 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
-- \[ICDM 2023\] Sep 3, 2023: our works on Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding has been accepted by ICDM 2023!
-- \[CIKM 2023\] Aug 5, 2023: our works on (1) defending graph convolutional networks against adversarial attacks with universal defenses and (2) improving graph representation learning on long-tail distributions have been accepted by CIKM 2023!
+- \[WSDM 2024\] October 20, 2023: Two papers accepted to WSDM 2024!
+- \[arXiv 2023\] October 19, 2023: Check out our new preprint on [https://arxiv.org/abs/2310.11664 Heterophilic Heterogeneous graphs].
+- \[ICDM 2023\] September 3, 2023: our works on Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding has been accepted by ICDM 2023!
+- \[CIKM 2023\] August 5, 2023: our works on (1) defending graph convolutional networks against adversarial attacks with universal defenses and (2) improving graph representation learning on long-tail distributions have been accepted by CIKM 2023!
 - \[KDD 2023\] May 18, 2023: our work on understanding masked graph modeling for graph autoencoders has been accepted by KDD 2023!
 - \[IJCAI 2023\] April 20, 2023: our collaboration with Ant Group on Semi-Supervised Anomaly Detection has been accepted by IJCAI 2023!
 - \[AAAI 2023\] November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 Oral!
@@ -53,31 +55,16 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [publications.html Link].
 
 === Conferences and Journals
-. *Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding* \n
-  Xinzhou Jin, *Jintang Li*, Yuanzhen Xie, Liang Chen\*, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, Zibin Zheng. \n
-  In Proceedings of the 23rd IEEE International Conference on Data Mining (*ICDM 2023*). \n
-  \[[ pdf]\]
-  \[[ code]\]  
 . *GUARD: Graph Universal Adversarial Defense* \n
   *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
   In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n
   \[[https://arxiv.org/abs/2204.09803 pdf]\]
   \[[https://github.com/EdisonLeeeee/GUARD code]\]  
-. *SAILOR: Structural Augmentation Based Tail Node Representation Learning* \n
-  Jie Liao, *Jintang Li*, Liang Chen\*, Bingzhe Wu, Yatao Bian, Zibin Zheng. \n
-  In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n
-  \[[https://arxiv.org/abs/2308.06801 pdf]\]
-  \[[https://github.com/Jie-Re/SAILOR code]\]  
 . *What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders* \n
   *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
   In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2023*). \n
   \[[https://arxiv.org/abs/2205.10053 pdf]\]
   \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
-. *SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs* \n
-  Sheng Tian, Jihai Dong, *Jintang Li*, Wenlong Zhao, Xiaolong Xu, Baokun wang, Bowen Song, Changhua Meng, Tianyi Zhang, Liang Chen. \n
-  In Proceedings of 32nd International Joint Conference on Artificial Intelligence (*IJCAI 2023*). \n
-  \[[https://arxiv.org/abs/2305.13573 pdf]\]
-  \[[https://github.com/D10Andy/SAD code]\]  
 . *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
   *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen\*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
   In Proceedings of the 36th AAAI Conference on Artificial Intelligence (*AAAI 2023*). \n
