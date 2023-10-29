@@ -10,7 +10,7 @@ Ph.D Student \n
 [https://www.sysu.edu.cn Sun Yat-sen University (SYSU)] \n
 [https://github.com/pyg-team PyG Team]
 
-E-mail: lijt55@mail2.sysu.edu.cn \n
+E-mail: lijt55 \[AT\] mail2.sysu.edu.cn \n
 \[[https://github.com/EdisonLeeeee GitHub]\]  \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]  \[[https://dblp.uni-trier.de/pid/260/6811.html DBLP]\] \[[https://www.zhihu.com/people/Edisonleejt Zhihu]\]
 ~~~
 
@@ -21,6 +21,16 @@ My research interests include:
 - Trustworthy Graph Learning: reliability, fairness, etc.
 - Graph Neural Networks
 - Spiking Neural Networks
+
+I am always open for collaborations and if you are interested in my research feel free to contact me via email or WeChat (id: EdisonLeejt).
+
+== PyTorch Geometric
+~~~
+{}{img_left}{pic/pyg_logo.svg}{alt text}{180}{80}{https://github.com/pyg-team/pytorch_geometric}
+
+As a core maintainer of [https://github.com/pyg-team/pytorch_geometric PyTorch Geometric (PyG)], I can provide assistance with any issues you may encounter while using PyG. Feel free to reach out to me for support or guidance in working with PyG.
+~~~
+
 
 ==  Educations
 
@@ -145,6 +155,8 @@ Please find my full list of publications in the following [publications.html Lin
 . [https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders Awesome Masked Autoencoders]: A collection of literature after or concurrent with Masked Autoencoder (MAE).
 
 == Rewards
+
+I am interested in participating in AI competitions and would love to collaborate with others! Please feel free to reach out to me if you are also interested in such collaborations.
 
 . Ant Group ATEC 2022 \[[https://www.atecup.cn/atecHome Link]\], 🥈2nd place. 
 . Baidu AI Competition 2023: CVR Prediction. \[[https://aistudio.baidu.com/competition/detail/877/0/introduction Link]\], 🥈2nd place.
