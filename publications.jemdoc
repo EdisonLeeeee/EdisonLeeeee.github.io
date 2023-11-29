@@ -17,7 +17,7 @@ Note: \* for corresponding author, \# for equal contribution.
   Xinzhou Jin, *Jintang Li*, Yuanzhen Xie, Liang Chen, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, and Zibin Zheng,. \n
   In Proceedings of the 23rd IEEE International Conference on Data Mining (*ICDM 2023*). \n
   \[[ pdf]\]
-  \[[ code]\]    
+  \[[https://github.com/downeykking/NSE code]\]    
 . *GUARD: Graph Universal Adversarial Defense* \n
   *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
   In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n
@@ -88,7 +88,7 @@ Note: \* for corresponding author, \# for equal contribution.
 === Preprints
 
 . *LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning* \n
-  *Jintang Li*, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, Baokun Wang, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
+  *Jintang Li*, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, Baokun Wang\*, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
   arXiv, 2023. \n
   \[[https://arxiv.org/abs/2311.16605 pdf]\]
 . *Hetero\$^2\$Net: Heterophily-aware Representation Learning on Heterogenerous Graphs* \n
