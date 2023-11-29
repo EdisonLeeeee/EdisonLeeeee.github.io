@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{pic/bio.jpg}{alt text}{250}{260}{https://edisonleeeee.github.io/}
-Jintang Li (李金膛) \n
+Jintang Li (李金膛 in Chinese) \n
 Ph.D Student \n 
 
 [https://sse.sysu.edu.cn/ School of Software Engineering] \n
@@ -48,6 +48,7 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 == Recent news
 
 - October 24, 2023: I was invited as the reviewer for WWW 2024.
+- \[arXiv 2023\] November 29, 2023: We have released our position paper on temporal graph learning: [https://arxiv.org/abs/2311.16605 LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning]
 - \[WSDM 2024\] October 20, 2023: Two papers accepted to WSDM 2024!
 - \[arXiv 2023\] October 19, 2023: Check out our new preprint on [https://arxiv.org/abs/2310.11664 Heterophilic Heterogeneous graphs].
 - September 3, 2023: I was invited as the reviewer for LoG 2023.
@@ -144,6 +145,10 @@ IEEE Transactions on Knowledge and Data Engineering (*TKDE 2021*). \n
 
 === Preprints
 
+. *LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning* \n
+  *Jintang Li*, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, Baokun Wang, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
+  arXiv, 2023. \n
+  \[[https://arxiv.org/abs/2311.16605 pdf]\]
 . *Hetero\$^2\$Net: Heterophily-aware Representation Learning on Heterogenerous Graphs* \n
   *Jintang Li*, Zheng Wei, Jiawang Dan, Jing Zhou, Yuchang Zhu, Ruofan Wu, Baokun Wang, Zhang Zhen, Changhua Meng, Hong Jin, Zibin Zheng, Liang Chen\*. \n
   arXiv, 2023. \n
