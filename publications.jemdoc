@@ -11,8 +11,8 @@ Note: \* for corresponding author, \# for equal contribution.
 . *Rethinking and Simplifying Bootstrapped Graph Latents* \n
   Wangbin Sun, *Jintang Li*, Liang Chen\*, Bingzhe Wu, Yatao Bian, Zibin Zheng. \n
   In Proceedings of the 17th ACM International Conference Web Search and Data Mining (*WSDM 2024*). \n
-  \[[ pdf]\]
-  \[[ code]\]  
+  \[[https://arxiv.org/abs/2312.02619 pdf]\]
+  \[[https://github.com/ZsZsZs25/SGCL code]\]  
 . *Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding* \n
   Xinzhou Jin, *Jintang Li*, Yuanzhen Xie, Liang Chen\*, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, Zibin Zheng. \n
   In Proceedings of the 23rd IEEE International Conference on Data Mining (*ICDM 2023*). \n
