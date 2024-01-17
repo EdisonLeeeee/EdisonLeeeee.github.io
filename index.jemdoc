@@ -47,6 +47,7 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- \[ICLR 2024\] January 16, 2024: Our works on [https://arxiv.org/abs/2305.19306 binary graph contrastive learning ] has been accepted by ICLR 2024 (poster)!
 - \[arXiv 2023\] November 29, 2023: We have released our position paper on temporal graph learning: [https://arxiv.org/abs/2311.16605 LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning]
 - October 24, 2023: I was invited as the reviewer for WWW 2024.
 - \[WSDM 2024\] October 20, 2023: Two papers accepted to WSDM 2024!
@@ -68,6 +69,11 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [publications.html Link].
 
 === Conferences and Journals
+. *A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks* \n
+  *Jintang Li*, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, Liang Chen\*. \n
+  In Proceedings of International Conference on Learning Representations (*ICLR 2024*). \n
+  \[[https://arxiv.org/abs/2305.19306 pdf]\]
+  \[[https://github.com/EdisonLeeeee/SpikeGCL code]\]  
 . *The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation* \n
   Yuchang Zhu, *Jintang Li*, Liang Chen\*, Zibin Zheng. \n
   In Proceedings of the 17th ACM International Conference Web Search and Data Mining (*WSDM 2024*). \n
@@ -152,11 +158,6 @@ Please find my full list of publications in the following [publications.html Lin
   arXiv, 2023. \n
   \[[https://arxiv.org/abs/2306.02117 pdf]\]
   \[[https://github.com/EdisonLeeeee/BlockGCL code]\]  
-. *A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks* \n
-  *Jintang Li*, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Liang Chen\*, Zibin Zheng, Baokun Wang, Changhua Meng. \n
-  arXiv, 2023. \n
-  \[[https://arxiv.org/abs/2305.19306 pdf]\]
-  \[[https://github.com/EdisonLeeeee/SpikeGCL code]\]  
 . *Less Can Be More: Unsupervised Graph Pruning for Large-scale Dynamic Graphs* \n
   *Jintang Li*\#, Sheng Tian\#, Ruofan Wu, Liang Zhu, Wenlong Zhao, Changhua Meng, Liang Chen\*, Zibin Zheng, Hongzhi Yin. \n
   arXiv, 2023. \n
@@ -206,6 +207,7 @@ I am interested in participating in AI competitions and would love to collaborat
 . Spectra Review Paper Competition 2021. \[[https://spectra.mathpix.com/ Link]\], 🥉3rd place winner with \[[https://spectra.mathpix.com/article/2021.09.00012/graph-adversarial-learning Introduction on Graph Adversarial Learning]\].
 . KDD Cup 2020, Adversarial Attacks and Defense on Academic Graph. \[[https://www.biendata.xyz/competition/kddcup_2020/ Link]\], 🥈2nd place.
 
+
 == Talks
 
 . KDD 2022 tutorial: [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection].
@@ -213,6 +215,7 @@ I am interested in participating in AI competitions and would love to collaborat
 
 == Scholarship
 . National Scholarship: 2022 & 2023 in Sun Yat-sen University (Top 1%)
+. 逸仙学术之星提名奖 (Top 0.2%) \[[https://mp.weixin.qq.com/s/wilDP7gbs35SK7jpGzXUnA News]\]
 
 == Professional services
 - Reviewer: AAAI, IJCAI, WWW, KDD, LoG, TKDD, JMLR, etc.
