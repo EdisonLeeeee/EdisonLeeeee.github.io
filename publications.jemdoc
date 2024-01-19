@@ -5,7 +5,7 @@ Note: \* for corresponding author, \# for equal contribution.
 === Conferences and Journals
 . *A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks* \n
   *Jintang Li*, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, Liang Chen\*. \n
-  In Proceedings of International Conference on Learning Representations (*ICLR 2024*). \n
+  In Proceedings of the 12th International Conference on Learning Representations (*ICLR 2024*). \n
   \[[https://arxiv.org/abs/2305.19306 pdf]\]
   \[[https://github.com/EdisonLeeeee/SpikeGCL code]\]  
 . *The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation* \n
