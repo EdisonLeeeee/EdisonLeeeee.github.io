@@ -47,8 +47,9 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- \[WWW 2024\] January 23, 2024: Our work on Fair Graph Learning has been accepted by WWW (TheWebConf) 2024!
 - \[ICLR 2024\] January 16, 2024: Our work on [https://arxiv.org/abs/2305.19306 binary graph contrastive learning] has been accepted by ICLR 2024 (poster)!
-- December 14, 2023, I was nominated with the Academic Star Award in SYSU (逸仙学术之星提名奖).
+- December 14, 2023, I was nominated with the Academic Star Award in SYSU (逸仙学术之星提名奖, Top 0.2%).
 - \[arXiv 2023\] November 29, 2023: We have released our position paper on temporal graph learning: [https://arxiv.org/abs/2311.16605 LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning]
 - October 24, 2023: I was invited as the reviewer for WWW 2024.
 - \[WSDM 2024\] October 20, 2023: Two papers accepted to WSDM 2024!
@@ -70,6 +71,11 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [publications.html Link].
 
 === Conferences and Journals
+. *Fair Graph Representation Learning via Sensitive Attribute Disentanglement* \n
+  Yuchang Zhu, *Jintang Li*, Zibin Zheng, Liang Chen\*. \n
+  In Proceedings of the 16th international conference on World Wide Web (*WWW or TheWebConf 2024*). \n
+  \[[pdf]\]
+  \[[code]\]  
 . *A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks* \n
   *Jintang Li*, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, Liang Chen\*. \n
   In Proceedings of the 12th International Conference on Learning Representations (*ICLR 2024*). \n
@@ -154,8 +160,8 @@ Please find my full list of publications in the following [publications.html Lin
   arXiv, 2023. \n
   \[[https://arxiv.org/abs/2310.11664 pdf]\]
   \[[https://github.com/EdisonLeeeee/Hetero2Net code]\]  
-. *Scaling Up, Scaling Deep: Blockwise Graph Contrastive Learning* \n
-  *Jintang Li*, Wangbin Sun, Ruofan Wu, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
+. *Oversmoothing: A Nightmare for Graph Contrastive Learning?g* \n
+  *Jintang Li*, Wangbin Sun, Ruofan Wu, Yuchang Zhu, Zibin Zheng, Liang Chen\*. \n
   arXiv, 2023. \n
   \[[https://arxiv.org/abs/2306.02117 pdf]\]
   \[[https://github.com/EdisonLeeeee/BlockGCL code]\]  
