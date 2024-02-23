@@ -3,6 +3,11 @@
 Note: \* for corresponding author, \# for equal contribution.
 
 === Conferences and Journals
+. *Fair Graph Representation Learning via Sensitive Attribute Disentanglement* \n
+  Yuchang Zhu, *Jintang Li*, Zibin Zheng, Liang Chen\*. \n
+  In Proceedings of the 16th international conference on World Wide Web (*WWW or TheWebConf 2024*). \n
+  \[[pdf]\]
+  \[[code]\]  
 . *A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks* \n
   *Jintang Li*, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, Liang Chen\*. \n
   In Proceedings of the 12th International Conference on Learning Representations (*ICLR 2024*). \n
@@ -101,8 +106,8 @@ Note: \* for corresponding author, \# for equal contribution.
   arXiv, 2023. \n
   \[[https://arxiv.org/abs/2310.11664 pdf]\]
   \[[https://github.com/EdisonLeeeee/Hetero2Net code]\]  
-. *Scaling Up, Scaling Deep: Blockwise Graph Contrastive Learning* \n
-  *Jintang Li*, Wangbin Sun, Ruofan Wu, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
+. *Oversmoothing: A Nightmare for Graph Contrastive Learning?g* \n
+  *Jintang Li*, Wangbin Sun, Ruofan Wu, Yuchang Zhu, Zibin Zheng, Liang Chen\*. \n
   arXiv, 2023. \n
   \[[https://arxiv.org/abs/2306.02117 pdf]\]
   \[[https://github.com/EdisonLeeeee/BlockGCL code]\]  
