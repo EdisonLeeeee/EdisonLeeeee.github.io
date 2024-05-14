@@ -74,8 +74,8 @@ Please find my full list of publications in the following [publications.html Lin
 . *Fair Graph Representation Learning via Sensitive Attribute Disentanglement* \n
   Yuchang Zhu, *Jintang Li*, Zibin Zheng, Liang Chen\*. \n
   In Proceedings of the 16th international conference on World Wide Web (*WWW or TheWebConf 2024*). \n
-  \[[pdf]\]
-  \[[code]\]  
+  \[[https://arxiv.org/abs/2405.07011 pdf]\]
+  \[[https://github.com/zzoomd/fairsad code]\]  
 . *A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks* \n
   *Jintang Li*, Huizhe Zhang, Ruofan Wu, Zulun Zhu, Baokun Wang, Changhua Meng, Zibin Zheng, Liang Chen\*. \n
   In Proceedings of the 12th International Conference on Learning Representations (*ICLR 2024*). \n
@@ -199,6 +199,7 @@ Please find my full list of publications in the following [publications.html Lin
 I am interested in participating in AI competitions and would love to collaborate with others! Please feel free to reach out to me if you are also interested in such collaborations.
 
 
+. Ant Group ATEC 2023 \[[https://www.atecup.cn/atecHome Link]\], 🥈2nd place. 
 . The Academic Star Nomination Award in SYSU (逸仙学术之星提名奖, Top 0.2%). \[[https://mp.weixin.qq.com/s/wilDP7gbs35SK7jpGzXUnA News]\]
 . iFLYTEK AI development competition 2023 \[[https://challenge.xfyun.cn/topic/info?type=social-media-account&option=ssgy&ch=vWxQGFU Link]\], 🏆1st place. 
 . iFLYTEK AI development competition 2023 \[[https://challenge.xfyun.cn/topic/info?type=subscriber-addition-prediction&option=ssgy Link]\], 🥈2nd place. 
