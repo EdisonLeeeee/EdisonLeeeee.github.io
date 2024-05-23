@@ -34,38 +34,44 @@ As a core maintainer of [https://github.com/pyg-team/pytorch_geometric PyTorch G
 
 ==  Educations
 
+~~~
+{}{img_left}{pic/Sun_Yat-sen_University.png}{alt text}{120}{120}{https://www.sysu.edu.cn/}
 - *Sun Yat-sen University*
 Ph.D in Software Engineering, from August 2021 to June 2025 (Expected).
-
 - *Sun Yat-sen University*
 M.S. in Electronics and Communications Engineering, from August 2019 to June 2021.
+~~~
 
 ==  Experiences
 
+~~~
+{}{img_left}{pic/ant_group.png}{alt text}{180}{80}{https://www.antgroup.com/}
+
 - Research Intern in Ant Group, from February 2022 to June 2022.
 - Research Intern in Ant Group, from July 2023 to March 2024.
+~~~
 
 == Recent news
 
-- \[NeurIPS 2024\] May 22, 2024: I've been intived serve as a reviewer for NeurIPS 2024.
-- \[KDD 2024\] May 17, 2024: Three papers on graph contrastive learning and fair graph learning have been accepted by KDD 2024!
-- \[WWW 2024\] January 23, 2024: Our work on Fair Graph Learning has been accepted by WWW (TheWebConf) 2024!
+- \[NeurIPS 2024\] May 22, 2024: I was intived as a reviewer for NeurIPS 2024.
+- \[KDD 2024\] May 17, 2024: Three papers on (i) graph contrastive learning and (ii) fair graph learning have been accepted by KDD 2024!
+- \[KDD 2024\] February 10, 2024: I was intived as a reviewer for KDD 2024.
+- \[WWW 2024\] January 23, 2024: Our work on [https://arxiv.org/abs/2405.07011 fair graph learning] has been accepted by WWW (TheWebConf) 2024!
 - \[ICLR 2024\] January 16, 2024: Our work on [https://arxiv.org/abs/2305.19306 binary graph contrastive learning] has been accepted by ICLR 2024 (poster)!
 - December 14, 2023, I was nominated with the Academic Star Award in SYSU (逸仙学术之星提名奖, Top 0.2%).
-- \[arXiv 2023\] November 29, 2023: We have released our position paper on temporal graph learning: [https://arxiv.org/abs/2311.16605 LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning]
-- October 24, 2023: I was invited as the reviewer for WWW 2024.
+- \[WWW 2024 \]October 24, 2023: I was invited as a reviewer for WWW 2024.
 - \[WSDM 2024\] October 20, 2023: Two papers accepted to WSDM 2024!
 - \[arXiv 2023\] October 19, 2023: Check out our new preprint on [https://arxiv.org/abs/2310.11664 Heterophilic Heterogeneous graphs].
-- September 3, 2023: I was invited as the reviewer for LoG 2023.
-- \[ICDM 2023\] September 3, 2023: our works on Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding has been accepted by ICDM 2023!
-- \[CIKM 2023\] August 5, 2023: our works on (1) defending graph convolutional networks against adversarial attacks with universal defenses and (2) improving graph representation learning on long-tail distributions have been accepted by CIKM 2023!
-- \[KDD 2023\] May 18, 2023: our work on understanding masked graph modeling for graph autoencoders has been accepted by KDD 2023!
+- \[LoG 2023\] September 3, 2023: I was invited as the reviewer for LoG 2023.
+- \[ICDM 2023\] September 3, 2023: One paper has been accepted by ICDM 2023!
+- \[CIKM 2023\] August 5, 2023: Two papers on (i) robust graph learning and (ii) long-tail graph learning have been accepted by CIKM 2023!
+- \[KDD 2023\] May 18, 2023: One paper on understanding masked graph modeling for graph autoencoders has been accepted by KDD 2023!
 - \[IJCAI 2023\] April 20, 2023: our collaboration with Ant Group on Semi-Supervised Anomaly Detection has been accepted by IJCAI 2023!
-- \[AAAI 2023\] November 19, 2022: our work on the use of spiking neural networks to scale up dynamic graph representation learning has been accepted by AAAI 2023 Oral!
-- \[TKDE 2022\] November 4, 2022: our work on robust graph neural networks has been accepted by TKDE!
+- \[AAAI 2023\] November 19, 2022: One paper on spiking graph learning has been accepted by AAAI 2023 Oral!
+- \[TKDE 2022\] November 4, 2022: One paper on robust graph neural networks has been accepted by TKDE!
 - \[PyG Team\] September 23, 2022. I've joined the [https://github.com/pyg-team PyG Team]!
-- \[KDD 2022\] June 11, 2022: We will give a tutorial about [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection] with our collaborators.
-- \[IJCAI 2022\] April 21, 2022: our work on spiking graph convolutional networks has been accepted for a Long Oral presentation.
+- \[KDD 2022\] June 11, 2022: We gave a tutorial on [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning] with our collaborators.
+- \[IJCAI 2022\] April 21, 2022: One paper on spiking graph convolutional networks has been accepted for a Long Oral presentation.
 
 == Selected Publications 
 
