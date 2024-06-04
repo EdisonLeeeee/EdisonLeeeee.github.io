@@ -19,6 +19,7 @@ I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen Universit
 
 My research interests include: 
 - Trustworthy Graph Learning: reliability, fairness, etc.
+- Graph Self-supervised Learning
 - Graph Neural Networks
 - Spiking Neural Networks
 
@@ -30,7 +31,6 @@ I am always open for collaborations and if you are interested in my research fee
 
 As a core maintainer of [https://github.com/pyg-team/pytorch_geometric PyTorch Geometric (PyG)], I can provide assistance with any issues you may encounter while using PyG. Feel free to reach out to me for support or guidance in working with PyG.
 ~~~
-
 
 ==  Educations
 
@@ -45,7 +45,7 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 ==  Experiences
 
 ~~~
-{}{img_left}{pic/ant_group.png}{alt text}{200}{100}{https://www.antgroup.com/}
+{}{img_left}{pic/ant_group.png}{alt text}{220}{100}{https://www.antgroup.com/}
 
 - \[2022-2023\] Research Intern at *Ant Group*, from February 2022 to June 2022.
 - \[2023-2024\] Research Intern at *Ant Group*, from July 2023 to March 2024.
@@ -53,6 +53,7 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- \[arXiv 2024\] June 04, 2024: Check out our new preprint: [https://arxiv.org/abs/2406.00943 state space models on temporal graphs].
 - \[NeurIPS 2024\] May 22, 2024: I was intived as a reviewer for NeurIPS 2024.
 - \[KDD 2024\] May 17, 2024: Three papers on (i) graph contrastive learning and (ii) fair graph learning have been accepted by KDD 2024!
 - \[KDD 2024\] February 10, 2024: I was intived as a reviewer for KDD 2024.
@@ -174,6 +175,11 @@ Please find my full list of publications in the following [publications.html Lin
 
 === Preprints
 
+. *State Space Models on Temporal Graphs: A First-Principles Study* \n
+  *Jintang Li*\#, Ruofan Wu\#, Xinzhou Jin, Boqun Ma, Liang Chen, Zibin Zheng. \n
+  arXiv, 2024. \n
+  \[[https://arxiv.org/abs/2406.00943 pdf]\]
+  \[[https://github.com/EdisonLeeeee/GraphSSM code]\]  
 . *LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning* \n
   *Jintang Li*, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, Baokun Wang\*, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
   arXiv, 2023. \n
