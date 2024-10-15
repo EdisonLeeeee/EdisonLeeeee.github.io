@@ -121,6 +121,11 @@ Note: \* for corresponding author, \# for equal contribution.
 
 === Preprints
 
+. *Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective* \n
+  *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Xinzhou Jin, Guibin Zhang, Zulun Zhu, Zibin Zheng, Liang Chen\*. \n
+  arXiv, 2024. \n
+  \[[https://arxiv.org/abs/2410.10241 pdf]\]
+  \[[https://github.com/EdisonLeeeee/lrGAE code]\]  
 . *LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning* \n
   *Jintang Li*, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, Baokun Wang\*, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
   arXiv, 2023. \n

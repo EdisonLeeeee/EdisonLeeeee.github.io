@@ -56,6 +56,7 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- \[arXiv 2024\] October 15, 2024: Check out our new preprint: [https://arxiv.org/abs/2410.10241 graph autoencoders benchmark].
 - \[NeurIPS 2024\] October 12, 2024: I received the NeurIPS 2024 Scholar Award.
 - \[NeurIPS 2024\] September 26, 2024: [https://arxiv.org/abs/2406.00943 GraphSSM] has been accepted to NeurIPS 2024.
 - \[WWW 2025\] August 18, 2024: I was intived as a Graph reviewer for WWW 2025.
@@ -187,6 +188,11 @@ Please find my full list of publications in the following [publications.html Lin
 
 === Preprints
 
+. *Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective* \n
+  *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Xinzhou Jin, Guibin Zhang, Zulun Zhu, Zibin Zheng, Liang Chen\*. \n
+  arXiv, 2024. \n
+  \[[https://arxiv.org/abs/2410.10241 pdf]\]
+  \[[https://github.com/EdisonLeeeee/lrGAE code]\]  
 . *LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning* \n
   *Jintang Li*, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, Baokun Wang\*, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
   arXiv, 2023. \n
@@ -238,7 +244,6 @@ I am interested in participating in AI competitions and would love to collaborat
 . Deepfake Speech Detection Challenge, IJCAI 2024 \[[https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=34&tabindex=2 Link]\], 🥈2nd place. 
 . Medical Treatment and Public Health, Seed 2023 \[[https://www.marsbigdata.com/competition/details?id=40144198635 Link]\], 🏆1st place. 
 . Ant Group ATEC 2023 \[[https://www.atecup.cn/atecHome Link]\], online track 2 & 3 - 🏆1st place, final - 🥈2nd place. 
-. The Academic Star Nomination Award in SYSU (逸仙学术之星提名奖, Top 0.02%). \[[https://mp.weixin.qq.com/s/wilDP7gbs35SK7jpGzXUnA News]\]
 . iFLYTEK AI development competition 2023: Social account network classification \[[https://challenge.xfyun.cn/topic/info?type=social-media-account&option=ssgy&ch=vWxQGFU Link]\], 🏆1st place. 
 . iFLYTEK AI development competition 2023: New user prediction \[[https://challenge.xfyun.cn/topic/info?type=subscriber-addition-prediction&option=ssgy Link]\], 🥈2nd place. 
 . Ant Group ATEC 2022 \[[https://www.atecup.cn/atecHome Link]\], 🥈2nd place. 
@@ -260,8 +265,10 @@ I am interested in participating in AI competitions and would love to collaborat
 . KDD 2022 tutorial: [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection].
 . AI TIME IJCAI 2021: [https://www.bilibili.com/video/BV1RS4y1Q7Wq Understanding Structural Vulnerability in Graph Convolutional Networks] (in Chinese).
 
-== Scholarship
-. National Scholarship: 2022 & 2023 in Sun Yat-sen University (Top 0.2%)
+== Scholarship & Honors
+. National Scholarship: 2022 & 2023 at Sun Yat-sen University (Top 0.2%).
+. The Academic Star Nomination Award at Sun Yat-sen University (逸仙学术之星提名奖, Top 0.02%). \[[https://mp.weixin.qq.com/s/wilDP7gbs35SK7jpGzXUnA News]\]
+. Top-100 students at Sun Yat-sen University (百年校庆百名优秀学子). \[[https://mp.weixin.qq.com/s/CdGZJU7aJPOjNiMd2mxhYw News]\]
 
 == Professional services
 - Reviewer: AAAI, IJCAI, WWW, KDD, LoG, ICLR, TKDD, JMLR, TPAMI etc.
