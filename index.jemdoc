@@ -20,9 +20,7 @@ I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen Universit
 
 My research interests include: 
 - Trustworthy Graph Learning: reliability, fairness, etc.
-- Graph Self-supervised Learning
 - Graph Neural Networks
-- Spiking Neural Networks
 - Large Language Models
 
 
@@ -56,6 +54,9 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- \[WWW 2025\] January 26, 2025: I won the 5th (5/1643) Prize in the WWW2025 multimodal LLM competition.
+- \[KDD 2025\] January 12, 2025: I was invited to serve as a reviewer for KDD 2025 Research Track February.
+- \[ICML 2025\] December 12, 2024: I was invited to serve as a reviewer for ICML 2025.
 - \[arXiv 2024\] October 15, 2024: Check out our new preprint: [https://arxiv.org/abs/2410.10241 graph autoencoders benchmark].
 - \[NeurIPS 2024\] October 12, 2024: I received the NeurIPS 2024 Scholar Award.
 - \[NeurIPS 2024\] September 26, 2024: [https://arxiv.org/abs/2406.00943 GraphSSM] has been accepted to NeurIPS 2024.
@@ -240,6 +241,7 @@ Please find my full list of publications in the following [publications.html Lin
 
 I am interested in participating in AI competitions and would love to collaborate with others! Please feel free to reach out to me if you are also interested in such collaborations.
 
+. WWW 2025 multimodal LLMs \[[https://tianchi.aliyun.com/competition/entrance/532277 Link]\] - 5th place (5/1643).
 . The 2nd World AI4S Prize, LLM Logical Reasoning track - 🏆1st place.
 . Car Drag Detection Challenge, IJCAI 2024 \[[https://competition.atomgit.com/competitionInfo?id=7f3f276465e9e845fd3a811d2d6925b5 Link]\], track 1 & 3 - 🥉3rd place.
 . Deepfake Speech Detection Challenge, IJCAI 2024 \[[https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=34&tabindex=2 Link]\], 🥈2nd place. 
@@ -267,12 +269,13 @@ I am interested in participating in AI competitions and would love to collaborat
 . AI TIME IJCAI 2021: [https://www.bilibili.com/video/BV1RS4y1Q7Wq Understanding Structural Vulnerability in Graph Convolutional Networks] (in Chinese).
 
 == Scholarship & Honors
-. National Scholarship: 2022 & 2023 at Sun Yat-sen University (Top 0.2%).
+. National Scholarship: 2022-2023 & 2023-2024 at Sun Yat-sen University (Top 0.2%).
 . The Academic Star Nomination Award at Sun Yat-sen University (逸仙学术之星提名奖, Top 0.02%). \[[https://mp.weixin.qq.com/s/wilDP7gbs35SK7jpGzXUnA News]\]
 . Top-100 students at Sun Yat-sen University (百年校庆百名优秀学子). \[[https://mp.weixin.qq.com/s/CdGZJU7aJPOjNiMd2mxhYw News]\]
+. Guo Xie Birong Scholarship 2024-2025 at Sun Yat-sen University (中山大学郭谢碧蓉奖学金, Top 0.2%).
 
 == Professional services
-- Reviewer: AAAI, IJCAI, WWW, KDD, LoG, ICLR, TKDD, JMLR, TPAMI etc.
+- Reviewer: AAAI, IJCAI, WWW, KDD, LoG, ICLR, TKDD, JMLR, TPAMI ICML etc.
 
 == Useful Links
 Deadlines: [https://ccfddl.github.io/ ccf-ddl] \n
