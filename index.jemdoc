@@ -54,7 +54,9 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
-- \[WWW 2025\] January 26, 2025: I won the 5th (5/1643) Prize in the WWW2025 multimodal LLM competition.
+- \[KDD 2025\] March 4, 2025: I was invited to serve as a reviewer for KDD 2025 Dataset and Benchmark Track February.
+- \[arXiv 2025\] February 19, 2025: Check out our new preprint: [https://arxiv.org/abs/2502.13562 in-context graph learning].
+- \[WWW 2025\] January 26, 2025: I won the 5th (5/1643) Prize in the [https://tianchi.aliyun.com/competition/entrance/532277 WWW2025 multimodal LLM competition].
 - \[KDD 2025\] January 12, 2025: I was invited to serve as a reviewer for KDD 2025 Research Track February.
 - \[ICML 2025\] December 12, 2024: I was invited to serve as a reviewer for ICML 2025.
 - \[arXiv 2024\] October 15, 2024: Check out our new preprint: [https://arxiv.org/abs/2410.10241 graph autoencoders benchmark].
@@ -68,20 +70,6 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 - \[KDD 2024\] February 10, 2024: I was intived as a reviewer for KDD 2024.
 - \[WWW 2024\] January 23, 2024: Our work on [https://arxiv.org/abs/2405.07011 fair graph learning] has been accepted by WWW (TheWebConf) 2024!
 - \[ICLR 2024\] January 16, 2024: Our work on [https://arxiv.org/abs/2305.19306 binary graph contrastive learning] has been accepted by ICLR 2024 (poster)!
-- \[SYSU 2023\] December 14, 2023, I was nominated with the Academic Star Award in SYSU (逸仙学术之星提名奖, Top 0.02%).
-- \[WWW 2024 \] October 24, 2023: I was invited as a reviewer for WWW 2024.
-- \[WSDM 2024\] October 20, 2023: Two papers accepted to WSDM 2024!
-- \[arXiv 2023\] October 19, 2023: Check out our new preprint on [https://arxiv.org/abs/2310.11664 Heterophilic Heterogeneous graphs].
-- \[LoG 2023\] September 3, 2023: I was invited as the reviewer for LoG 2023.
-- \[ICDM 2023\] September 3, 2023: One paper has been accepted by ICDM 2023!
-- \[CIKM 2023\] August 5, 2023: Two papers on (i) robust graph learning and (ii) long-tail graph learning have been accepted by CIKM 2023!
-- \[KDD 2023\] May 18, 2023: One paper on understanding masked graph autoencoders has been accepted by KDD 2023!
-- \[IJCAI 2023\] April 20, 2023: One paper on semi-supervised anomaly detection has been accepted by IJCAI 2023!
-- \[AAAI 2023\] November 19, 2022: One paper on spiking graph learning has been accepted by AAAI 2023 Oral!
-- \[TKDE 2022\] November 4, 2022: One paper on robust graph neural networks has been accepted by TKDE!
-- \[PyG Team\] September 23, 2022. I've joined the [https://github.com/pyg-team PyG Team]!
-- \[KDD 2022\] June 11, 2022: We gave a tutorial on [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning] with our collaborators.
-- \[IJCAI 2022\] April 21, 2022: One paper on spiking graph convolutional networks has been accepted for a Long Oral presentation.
 
 == Selected Publications 
 
@@ -189,30 +177,20 @@ Please find my full list of publications in the following [publications.html Lin
 
 === Preprints
 
+. *Are Large Language Models In-Context Graph Learners?* \n
+  *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Liang Chen\*, Zibin Zheng. \n
+  arXiv, 2024. \n
+  \[[https://arxiv.org/abs/2502.13562 pdf]\]
 . *Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective* \n
   *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Xinzhou Jin, Guibin Zhang, Zulun Zhu, Zibin Zheng, Liang Chen\*. \n
   arXiv, 2024. \n
   \[[https://arxiv.org/abs/2410.10241 pdf]\]
   \[[https://github.com/EdisonLeeeee/lrGAE code]\]  
-. *LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning* \n
-  *Jintang Li*, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, Baokun Wang\*, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
-  arXiv, 2023. \n
-  \[[https://arxiv.org/abs/2311.16605 pdf]\]
 . *Hetero\$^2\$Net: Heterophily-aware Representation Learning on Heterogenerous Graphs* \n
   *Jintang Li*, Zheng Wei, Jiawang Dan, Jing Zhou, Yuchang Zhu, Ruofan Wu, Baokun Wang, Zhang Zhen, Changhua Meng, Hong Jin, Zibin Zheng, Liang Chen\*. \n
   arXiv, 2023. \n
   \[[https://arxiv.org/abs/2310.11664 pdf]\]
   \[[https://github.com/EdisonLeeeee/Hetero2Net code]\]  
-. *Oversmoothing: A Nightmare for Graph Contrastive Learning?* \n
-  *Jintang Li*, Wangbin Sun, Ruofan Wu, Yuchang Zhu, Zibin Zheng, Liang Chen\*. \n
-  arXiv, 2023. \n
-  \[[https://arxiv.org/abs/2306.02117 pdf]\]
-  \[[https://github.com/EdisonLeeeee/BlockGCL code]\]  
-. *Less Can Be More: Unsupervised Graph Pruning for Large-scale Dynamic Graphs* \n
-  *Jintang Li*\#, Sheng Tian\#, Ruofan Wu, Liang Zhu, Wenlong Zhao, Changhua Meng, Liang Chen\*, Zibin Zheng, Hongzhi Yin. \n
-  arXiv, 2023. \n
-  \[[https://arxiv.org/abs/2305.10673 pdf]\]
-  \[[https://github.com/EdisonLeeeee/STEP code]\]  
 . *A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection* \n
   Bingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen\*, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
   arXiv, 2022. \n
