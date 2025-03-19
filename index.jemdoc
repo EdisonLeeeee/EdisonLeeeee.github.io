@@ -92,11 +92,6 @@ Please find my full list of publications in the following [publications.html Lin
   In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2024*). \n
   \[[https://arxiv.org/abs/2406.13544 pdf]\]
   \[[https://github.com/ZzoomD/FairINV code]\]
-  . *Topology-monitorable Contrastive Learning on Dynamic Graphs* \n
-  Zulun Zhu, Kai Wang, Haoyu Liu, *Jintang Li*, Siqiang Luo\*. \n
-  In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2024*). \n
-  \[[https://siqiangluo.com/docs/KDD24_Zulun.pdf pdf]\]
-  \[[https://github.com/ZulunZhu/dynamic-contrastive-learning code]\]
 . *Fair Graph Representation Learning via Sensitive Attribute Disentanglement* \n
   Yuchang Zhu, *Jintang Li*, Zibin Zheng, Liang Chen\*. \n
   In Proceedings of the 16th international conference on World Wide Web (*WWW or TheWebConf 2024*). \n
@@ -137,11 +132,6 @@ Please find my full list of publications in the following [publications.html Lin
   In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2023*). \n
   \[[https://arxiv.org/abs/2205.10053 pdf]\]
   \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
-. *SAD: Semi-Supervised Anomaly Detection on Dynamic Graphs* \n
-  Sheng Tian, Jihai Dong, *Jintang Li*, Wenlong Zhao, Xiaolong Xu, Baokun wang, Bowen Song, Changhua Meng, Tianyi Zhang, Liang Chen. \n
-  In Proceedings of 32nd International Joint Conference on Artificial Intelligence (*IJCAI 2023*). \n
-  \[[https://arxiv.org/abs/2305.13573 pdf]\]
-  \[[https://github.com/D10Andy/SAD code]\]  
 . *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
   *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen\*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
   In Proceedings of the 36th AAAI Conference on Artificial Intelligence (*AAAI 2023*). \n
@@ -152,11 +142,6 @@ Please find my full list of publications in the following [publications.html Lin
   IEEE Transactions on Knowledge and Data Engineering (*TKDE 2022*). \n
   \[[https://arxiv.org/abs/2211.10896 pdf]\]
   \[[https://github.com/EdisonLeeeee/SAT code]\]
-. *Spiking Graph Convolutional Networks* \n
-  Zulun Zhu, Jiaying Peng, *Jintang Li*, Liang Chen\*, Qi Yu, Siqiang Luo. \n
-  In Proceedings of 31th International Joint Conference on Artificial Intelligence (*IJCAI 2022*). \n
-  \[[https://arxiv.org/abs/2205.02767 pdf]\]
-  \[[hhttps://github.com/ZulunZhu/SpikingGCN code]\]
 . *Understanding Structural Vulnerability in Graph Convolutional Networks* \n
   Liang Chen, *Jintang Li*, Qibiao Peng, Yang Liu, Zibin Zheng\*, Carl Yang. \n
   In Proceedings of 30th International Joint Conference on Artificial Intelligence (*IJCAI 2021*). \n
@@ -210,7 +195,6 @@ Please find my full list of publications in the following [publications.html Lin
 . [https://github.com/pyg-team/pytorch_geometric PyTorch Geometric] (collaborator): Graph Neural Network Library for PyTorch.
 . [https://github.com/EdisonLeeeee/GraphGallery GraphGallery]: A gallery for benchmarking Graph Neural Networks (GNNs).
 . [https://github.com/EdisonLeeeee/GreatX GreatX]: A graph reliability toolbox based on PyTorch and PyTorch Geometric.
-. [https://github.com/EdisonLeeeee/Mooon Mooon]: A graph data augmentation library based on PyTorch and PyTorch Geometric.
 . [https://github.com/EdisonLeeeee/Graph-Adversarial-Learning Awesome Graph Adversarial Learning]: A curated collection of adversarial attack and defense on graph data.
 . [https://github.com/EdisonLeeeee/Awesome-Fair-Graph-Learning Awesome Fair Graph Learning]: Paper Lists for Fair Graph Learning (FairGL).
 . [https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders Awesome Masked Autoencoders]: A collection of literature after or concurrent with Masked Autoencoder (MAE).
@@ -253,7 +237,7 @@ I am interested in participating in AI competitions and would love to collaborat
 . Guo Xie Birong Scholarship 2024-2025 at Sun Yat-sen University (中山大学郭谢碧蓉奖学金, Top 0.2%).
 
 == Professional services
-- Reviewer: AAAI, IJCAI, WWW, KDD, LoG, ICLR, TKDD, JMLR, TPAMI ICML etc.
+- Reviewer: AAAI, IJCAI, WWW, KDD, ICML, NeurIPS, ICLR, TKDD, LoG, JMLR, TPAMI etc.
 
 == Useful Links
 Deadlines: [https://ccfddl.github.io/ ccf-ddl] \n
