@@ -54,6 +54,7 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- \[ICML 2025\] May 1, 2025: One paper has been accepted by ICML 2025.
 - \[CIKM 2025\] April 16, 2025: I was invited to join the Program Committee for CIKM 2025.
 - \[KDD 2025\] March 4, 2025: I was invited to serve as a reviewer for KDD 2025 Dataset and Benchmark Track February.
 - \[arXiv 2025\] February 19, 2025: Check out our new preprint: [https://arxiv.org/abs/2502.13562 in-context graph learning].
@@ -78,6 +79,10 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [publications.html Link].
 
 === Conferences and Journals
+. *Measuring Diversity in Synthetic Datasets* \n
+  Yuchang Zhu, Huizhe Zhang, Bingzhe Wu, *Jintang Li*, Zibin Zheng, Peilin Zhao, Liang Chen, Yatao Bian. \n
+  In Proceedings of the Forty-second International Conference on Machine Learning (*ICML 2025*). \n
+  \[[https://openreview.net/forum?id=DMJ3b19RAJ pdf]\]
 . *State Space Models on Temporal Graphs: A First-Principles Study* \n
   *Jintang Li*\#, Ruofan Wu\#, Xinzhou Jin, Boqun Ma, Liang Chen, Zibin Zheng. \n
   In Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing (*NeurIPS 2024*). \n
