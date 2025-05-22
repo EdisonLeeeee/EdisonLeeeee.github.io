@@ -54,7 +54,9 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- \[TPAMI 2025\] May 19, 2025: One paper has been accepted by TPAMI.
 - \[ICML 2025\] May 1, 2025: One paper has been accepted by ICML 2025.
+- \[NeurIPS 2025\] April 17, 2025: I was invited to serve as a reviewer for NeurIPS 2025 Dataset and Benchmark Track.
 - \[CIKM 2025\] April 16, 2025: I was invited to join the Program Committee for CIKM 2025.
 - \[KDD 2025\] March 4, 2025: I was invited to serve as a reviewer for KDD 2025 Dataset and Benchmark Track February.
 - \[arXiv 2025\] February 19, 2025: Check out our new preprint: [https://arxiv.org/abs/2502.13562 in-context graph learning].
@@ -79,6 +81,11 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [publications.html Link].
 
 === Conferences and Journals
+. *Heterophily-aware Representation Learning on Heterogenerous Graphs* \n
+  *Jintang Li*, Zheng Wei, Yuchang Zhu, Ruofan Wu, Huizhe Zhang, Liang Chen\*, Zibin Zheng. \n
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI 2025*). \n
+  \[[https://arxiv.org/abs/2310.11664 pdf]\]
+  \[[https://github.com/EdisonLeeeee/Hetero2Net code]\]  
 . *Measuring Diversity in Synthetic Datasets* \n
   Yuchang Zhu, Huizhe Zhang, Bingzhe Wu, *Jintang Li*, Zibin Zheng, Peilin Zhao, Liang Chen, Yatao Bian. \n
   In Proceedings of the Forty-second International Conference on Machine Learning (*ICML 2025*). \n
@@ -177,11 +184,6 @@ Please find my full list of publications in the following [publications.html Lin
   arXiv, 2024. \n
   \[[https://arxiv.org/abs/2410.10241 pdf]\]
   \[[https://github.com/EdisonLeeeee/lrGAE code]\]  
-. *Hetero\$^2\$Net: Heterophily-aware Representation Learning on Heterogenerous Graphs* \n
-  *Jintang Li*, Zheng Wei, Jiawang Dan, Jing Zhou, Yuchang Zhu, Ruofan Wu, Baokun Wang, Zhang Zhen, Changhua Meng, Hong Jin, Zibin Zheng, Liang Chen\*. \n
-  arXiv, 2023. \n
-  \[[https://arxiv.org/abs/2310.11664 pdf]\]
-  \[[https://github.com/EdisonLeeeee/Hetero2Net code]\]  
 . *A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection* \n
   Bingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen\*, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
   arXiv, 2022. \n

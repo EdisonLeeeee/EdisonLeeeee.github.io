@@ -3,6 +3,11 @@
 Note: \* for corresponding author, \# for equal contribution.
 
 === Conferences and Journals
+. *Heterophily-aware Representation Learning on Heterogenerous Graphs* \n
+  *Jintang Li*, Zheng Wei, Yuchang Zhu, Ruofan Wu, Huizhe Zhang, Liang Chen\*, Zibin Zheng. \n
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI 2025*). \n
+  \[[https://arxiv.org/abs/2310.11664 pdf]\]
+  \[[https://github.com/EdisonLeeeee/Hetero2Net code]\]  
 . *Measuring Diversity in Synthetic Datasets* \n
   Yuchang Zhu, Huizhe Zhang, Bingzhe Wu, *Jintang Li*, Zibin Zheng, Peilin Zhao, Liang Chen, Yatao Bian. \n
   In Proceedings of the Forty-second International Conference on Machine Learning (*ICML 2025*). \n
