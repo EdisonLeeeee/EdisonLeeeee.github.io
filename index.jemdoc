@@ -7,30 +7,29 @@ Jintang Li (李金膛 in Chinese) \n
 Ph.D Student \n
 [assets/CV_Jintang_Li.pdf Curriculum Vitae (CV)]
 
-[https://sse.sysu.edu.cn/ School of Software Engineering] \n
-[https://www.sysu.edu.cn Sun Yat-sen University (SYSU)] \n
+Assistant Professor \n
+[https://iai.xmu.edu.cn/ Institute of Artificial Intelligence] \n
+[https://www.xmu.edu.cn/ Xiamen University] \n
 [https://github.com/pyg-team PyG Team]
 
-E-mail: lijt55 \[AT\] mail2.sysu.edu.cn \n
+E-mail: edisonleejt \[AT\] gmail.com \n
 \[[https://github.com/EdisonLeeeee GitHub]\]  \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]  \[[https://dblp.uni-trier.de/pid/260/6811.html DBLP]\] \[[https://www.zhihu.com/people/Edisonleejt Zhihu]\]
 ~~~
 
 == About me
-I am currently a Ph.D student at [https://www.sysu.edu.cn/ Sun Yat-sen University], where I am advised by [https://chenliang.tech/ Prof. Liang Chen] and [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng]. I received the master's degree from Sun Yat-sen University in 2021.
+I will join the [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence], [https://www.xmu.edu.cn/ Xiamen University] as an Assistant Professor in November 2025. I received my M.S. and Ph.D. degrees from [https://www.sysu.edu.cn/ Sun Yat-sen University] in 2021 and 2025, respectively, where I was advised by [https://chenliang.tech/ Prof. Liang Chen] and [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng].
 
 My research interests include: 
 - Trustworthy Graph Learning: reliability, fairness, etc.
 - Graph Neural Networks
+- Generative Recommendation
 - Large Language Models
-
-
-*🔥🔥🔥 I am in the 2025 fall job market and actively seeking postdoctoral and industry opportunities. Feel free to reach out to me via email or WeChat (id: EdisonLeejt).*
 
 == PyTorch Geometric
 ~~~
 {}{img_left}{pic/pyg_logo.svg}{alt text}{180}{80}{https://github.com/pyg-team/pytorch_geometric}
 
-As a core maintainer of [https://github.com/pyg-team/pytorch_geometric PyTorch Geometric (PyG)], I can provide assistance with any issues you may encounter while using PyG. Feel free to reach out to me for support or guidance in working with PyG.
+I am a core maintainer of [https://github.com/pyg-team/pytorch_geometric PyTorch Geometric (PyG)], Feel free to reach out to me for support or guidance in working with PyG.
 ~~~
 
 ==  Educations
@@ -54,8 +53,11 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- October 30, 2025: I will join the the Institute of Artificial Intelligence, Xiamen University as an Assistant Professor.
+- October 29, 2025: I was honored with the ACM China (Zhuhai Chapter) Doctoral Dissertation Award in recognition of my outstanding doctoral research in computer science.
+- \[ICLR 2026\] September 23, 2025: I was invited to serve as a reviewer for ICLR 2026.
 - \[AAAI 2026\] July 28, 2025: I was invited to serve as a reviewer for AAAI 2026.
-- \[KDD 2026\] July 25, 2025: I was invited to serve as a reviewer for KDD 2026 Research Track and Dataset & Benchmark Track.
+- \[KDD 2026\] July 25, 2025: I was invited to serve as a reviewer for both KDD 2026 Research Track and Dataset & Benchmark Track.
 - \[LoG 2025\] July 23, 2025: I was invited to serve as a reviewer for LoG 2025.
 - June 21, 2025: I was honored as an Outstanding Graduating Ph.D. Student by Sun Yat-sen University.
 - \[TPAMI 2025\] May 19, 2025: One paper has been accepted by TPAMI.
@@ -63,21 +65,6 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 - \[NeurIPS 2025\] April 17, 2025: I was invited to serve as a reviewer for NeurIPS 2025 Dataset and Benchmark Track.
 - \[CIKM 2025\] April 16, 2025: I was invited to join the Program Committee for CIKM 2025.
 - \[KDD 2025\] March 4, 2025: I was invited to serve as a reviewer for KDD 2025 Dataset and Benchmark Track February.
-- \[arXiv 2025\] February 19, 2025: Check out our new preprint: [https://arxiv.org/abs/2502.13562 in-context graph learning].
-- \[WWW 2025\] January 26, 2025: I won the 5th (5/1643) Prize in the [https://tianchi.aliyun.com/competition/entrance/532277 WWW2025 multimodal LLM competition].
-- \[KDD 2025\] January 12, 2025: I was invited to serve as a reviewer for KDD 2025 Research Track February.
-- \[ICML 2025\] December 12, 2024: I was invited to serve as a reviewer for ICML 2025.
-- \[arXiv 2024\] October 15, 2024: Check out our new preprint: [https://arxiv.org/abs/2410.10241 graph autoencoders benchmark].
-- \[NeurIPS 2024\] October 12, 2024: I received the NeurIPS 2024 Scholar Award.
-- \[NeurIPS 2024\] September 26, 2024: [https://arxiv.org/abs/2406.00943 GraphSSM] has been accepted to NeurIPS 2024.
-- \[WWW 2025\] August 18, 2024: I was intived as a Graph reviewer for WWW 2025.
-- \[ICLR 2025\] August 13, 2024: I was intived as a reviewer for ICLR 2025.
-- \[arXiv 2024\] June 04, 2024: Check out our new preprint: [https://arxiv.org/abs/2406.00943 state space models on temporal graphs].
-- \[NeurIPS 2024\] May 22, 2024: I was intived as a reviewer for NeurIPS 2024.
-- \[KDD 2024\] May 17, 2024: Three papers on (i) graph contrastive learning and (ii) fair graph learning have been accepted by KDD 2024!
-- \[KDD 2024\] February 10, 2024: I was intived as a reviewer for KDD 2024.
-- \[WWW 2024\] January 23, 2024: Our work on [https://arxiv.org/abs/2405.07011 fair graph learning] has been accepted by WWW (TheWebConf) 2024!
-- \[ICLR 2024\] January 16, 2024: Our work on [https://arxiv.org/abs/2305.19306 binary graph contrastive learning] has been accepted by ICLR 2024 (poster)!
 
 == Selected Publications 
 
@@ -244,6 +231,7 @@ I am interested in participating in AI competitions and would love to collaborat
 . AI TIME IJCAI 2021: [https://www.bilibili.com/video/BV1RS4y1Q7Wq Understanding Structural Vulnerability in Graph Convolutional Networks] (in Chinese).
 
 == Scholarship & Honors
+. ACM China (Zhuhai Chapter) Doctoral Dissertation Award (ACM中国珠海分会优博奖)
 . National Scholarship: 2022-2023 & 2023-2024 at Sun Yat-sen University (Top 0.2%).
 . The Academic Star Nomination Award at Sun Yat-sen University (逸仙学术之星提名奖, Top 0.02%). \[[https://mp.weixin.qq.com/s/wilDP7gbs35SK7jpGzXUnA News]\]
 . Top-100 students at Sun Yat-sen University (百年校庆百名优秀学子). \[[https://mp.weixin.qq.com/s/CdGZJU7aJPOjNiMd2mxhYw News]\]
