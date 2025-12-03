@@ -2,21 +2,21 @@
 == Jintang Li's  Homepage
 
 ~~~
-{}{img_left}{pic/bio.jpg}{alt text}{250}{260}{https://edisonleeeee.github.io/}
+{}{img_left}{pic/bio.jpg}{alt text}{200}{240}{https://edisonleeeee.github.io/}
 Jintang Li (李金膛 in Chinese) \n
 Assistant Professor \n
-[assets/CV_Jintang_Li.pdf Curriculum Vitae (CV)]
 
 [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence] \n
 [https://www.xmu.edu.cn/ Xiamen University] \n
-[https://github.com/pyg-team PyG Team]
+[https://github.com/pyg-team PyG Team] \n
+[assets/CV_Jintang_Li.pdf Curriculum Vitae (CV)]
 
-E-mail: edisonleejt \[AT\] gmail.com \n
+E-mail: edisonlee \[AT\] xmu.edu.cn \n
 \[[https://github.com/EdisonLeeeee GitHub]\]  \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]  \[[https://dblp.uni-trier.de/pid/260/6811.html DBLP]\] \[[https://www.zhihu.com/people/Edisonleejt Zhihu]\]
 ~~~
 
 == About me
-I will join the [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence], [https://www.xmu.edu.cn/ Xiamen University] as an Assistant Professor in November 2025. I received my M.S. and Ph.D. degrees from [https://www.sysu.edu.cn/ Sun Yat-sen University] in 2021 and 2025, respectively, where I was advised by [https://chenliang.tech/ Prof. Liang Chen] and [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng].
+I am currently an assistant professor of the [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence], [https://www.xmu.edu.cn/ Xiamen University]. I received my M.S. and Ph.D. degrees from [https://www.sysu.edu.cn/ Sun Yat-sen University] in 2021 and 2025, respectively, where I was advised by [https://chenliang.tech/ Prof. Liang Chen] and [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng].
 
 My research interests include: 
 - Trustworthy Graph Learning: reliability, fairness, etc.
@@ -52,7 +52,8 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
-- October 30, 2025: I will join the the Institute of Artificial Intelligence, Xiamen University as an Assistant Professor.
+- November 27, 2025: I joined the Institute of Artificial Intelligence, Xiamen University as an Assistant Professor.
+- November 26, 2025: I won second place of Tencent Advertising Algorithm Competition (TAAC 2025).
 - October 29, 2025: I was honored with the ACM China (Zhuhai Chapter) Doctoral Dissertation Award in recognition of my outstanding doctoral research in computer science.
 - \[ICLR 2026\] September 23, 2025: I was invited to serve as a reviewer for ICLR 2026.
 - \[AAAI 2026\] July 28, 2025: I was invited to serve as a reviewer for AAAI 2026.
@@ -115,53 +116,11 @@ Please find my full list of publications in the following [publications.html Lin
   In Proceedings of the 17th ACM International Conference Web Search and Data Mining (*WSDM 2024*). \n
   \[[https://arxiv.org/abs/2312.02619 pdf]\]
   \[[https://github.com/ZsZsZs25/SGCL code]\]  
-. *Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding* \n
-  Xinzhou Jin, *Jintang Li*, Yuanzhen Xie, Liang Chen\*, Beibei Kong, Lei Cheng, Bo Hu, Zang Li, Zibin Zheng. \n
-  In Proceedings of the 23rd IEEE International Conference on Data Mining (*ICDM 2023*). \n
-  \[[https://ieeexplore.ieee.org/document/10415768 pdf]\]
-  \[[https://github.com/downeykking/NSE code]\]    
-. *GUARD: Graph Universal Adversarial Defense* \n
-  *Jintang Li*, Jie Liao, Ruofan Wu, Liang Chen\*, Jiawang Dan, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
-  In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n
-  \[[https://arxiv.org/abs/2204.09803 pdf]\]
-  \[[https://github.com/EdisonLeeeee/GUARD code]\]  
-. *SAILOR: Structural Augmentation Based Tail Node Representation Learning* \n
-  Jie Liao, *Jintang Li*, Liang Chen\*, Bingzhe Wu, Yatao Bian, Zibin Zheng. \n
-  In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (*CIKM 2023*). \n  
-  \[[https://arxiv.org/abs/2308.06801 pdf]\]
-  \[[https://github.com/Jie-Re/SAILOR code]\]    
 . *What's Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders* \n
   *Jintang Li*\#, Ruofan Wu\#, Wangbin Sun, Liang Chen\*, Sheng Tian, Liang Zhu, Changhua Meng, Zibin Zheng, Weiqiang Wang. \n
   In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2023*). \n
   \[[https://arxiv.org/abs/2205.10053 pdf]\]
   \[[https://github.com/EdisonLeeeee/MaskGAE code]\]
-. *Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks* \n
-  *Jintang Li*, Zhouxin Yu, Zulun Zhu, Liang Chen\*, Qi Yu, Zibin Zheng, Sheng Tian, Ruofan Wu, Changhua Meng \n
-  In Proceedings of the 36th AAAI Conference on Artificial Intelligence (*AAAI 2023*). \n
-  \[[https://arxiv.org/abs/2208.10364 pdf]\]
-  \[[https://github.com/EdisonLeeeee/SpikeNet code]\]
-. *Spectral Adversarial Training for Robust Graph Neural Network* \n
-  *Jintang Li*, Jiaying Peng, Liang Chen\*, Zibin Zheng, Tingting Liang, Qing Ling.  \n
-  IEEE Transactions on Knowledge and Data Engineering (*TKDE 2022*). \n
-  \[[https://arxiv.org/abs/2211.10896 pdf]\]
-  \[[https://github.com/EdisonLeeeee/SAT code]\]
-. *Understanding Structural Vulnerability in Graph Convolutional Networks* \n
-  Liang Chen, *Jintang Li*, Qibiao Peng, Yang Liu, Zibin Zheng\*, Carl Yang. \n
-  In Proceedings of 30th International Joint Conference on Artificial Intelligence (*IJCAI 2021*). \n
-  \[[https://arxiv.org/abs/2108.06280 pdf]\]
-  \[[https://github.com/EdisonLeeeee/MedianGCN code]\]
-. *Adversarial Attack on Large Scale Graph* \n
-  *Jintang Li*, Tao Xie, Liang Chen\*, Fenfang Xie, Xiangnan He, Zibin Zheng. \n
-  IEEE Transactions on Knowledge and Data Engineering (*TKDE 2021*). \n
-  \[[https://arxiv.org/abs/2009.03488 pdf]\]
-  \[[https://github.com/EdisonLeeeee/SGAttack code]\]
-. *GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software* \n
-  *Jintang Li*, Kun Xu, Liang Chen\*, Zibin Zheng and Xiao Liu. \n
-  In Proceedings of 43rd International Conference on Software Engineering (*ICSE 2021*). \n
-  \[[https://arxiv.org/abs/2102.07933 pdf]\]
-  \[[https://github.com/EdisonLeeeee/GraphGallery code]\]
-
-
 
 === Preprints
 
@@ -174,19 +133,6 @@ Please find my full list of publications in the following [publications.html Lin
   arXiv, 2024. \n
   \[[https://arxiv.org/abs/2410.10241 pdf]\]
   \[[https://github.com/EdisonLeeeee/lrGAE code]\]  
-. *A Survey of Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection* \n
-  Bingzhe Wu, *Jintang Li*, Junchi Yu, Yatao Bian, Hengtong Zhang, CHaochao Chen, Chengbin Hou, Guoji Fu, Liang Chen\*, Tingyang Xu, Yu Rong, Xiaolin Zheng, Junzhou Huang, Ran He, Baoyuan Wu, GUangyu Sun, Peng Cui, Zibin Zheng, Zhe Liu, Peilin Zhao.\n
-  arXiv, 2022. \n
-  \[[https://arxiv.org/abs/2205.10014 pdf]\]
-. *Recent Advances in Reliable Deep Graph Learning: Inherent Noise, Distribution Shift, and Adversarial Attack* \n
-  *Jintang Li*, Bingzhe Wu\*, Chengbin Hou, Guoji Fu, Yatao Bian, Liang Chen, Junzhou Huang. \n
-  arXiv, 2022. \n
-  \[[https://arxiv.org/abs/2202.07114 pdf]\] 
-. *A Survey of Adversarial Learning on Graphs* \n
-  Liang Chen\*, *Jintang Li*, Jiaying Peng, Tao Xie, Zengxu Cao, Kun Xu, Xiangnan He, Zibin Zheng. \n
-  arXiv, 2020. \n
-  \[[https://arxiv.org/abs/2003.05730 pdf]\]  
-  \[[https://github.com/gitgiter/Graph-Adversarial-Learning paper list]\]   
 
 == Projects
 
@@ -201,6 +147,7 @@ Please find my full list of publications in the following [publications.html Lin
 
 I am interested in participating in AI competitions and would love to collaborate with others! Please feel free to reach out to me if you are also interested in such collaborations.
 
+. Tencent Advertising Algorithm Competition (TAAC 2025) \[[https://algo.qq.com/ Link]\] - 🥈2nd place.
 . DC 2025: The 3rd Challenge on Electromagnetic Data \[[https://challenge.datacastle.cn/v3/cmptDetail.html?id=988 Link]\] - 🥉3rd place.
 . WWW 2025 multimodal LLMs \[[https://tianchi.aliyun.com/competition/entrance/532277 Link]\] - 5th place (5/1643).
 . The 2nd World AI4S Prize, LLM Logical Reasoning track - 🏆1st place.
