@@ -8,6 +8,7 @@ Assistant Professor \n
 
 [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence] \n
 [https://www.xmu.edu.cn/ Xiamen University] \n
+[https://mac.xmu.edu.cn/ Media Analytics & Computing Laboratory (MAC Lab)] \n
 [https://github.com/pyg-team PyG Team] \n
 
 E-mail: edisonlee \[AT\] xmu.edu.cn \n
@@ -18,16 +19,16 @@ E-mail: edisonlee \[AT\] xmu.edu.cn \n
 ~~~
 {}{img_left}{pic/xmu.png}{alt text}{120}{120}{https://www.xmu.edu.cn/}
 
-I am currently an assistant professor at the [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence], [https://www.xmu.edu.cn/ Xiamen University]. Before that, I received my M.S. and Ph.D. degrees from [https://www.sysu.edu.cn/ Sun Yat-sen University] in 2021 and 2025, respectively, where I was advised by [https://chenliang.tech/ Prof. Liang Chen] and [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng].
+I am currently an assistant professor at the [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence], [https://www.xmu.edu.cn/ Xiamen University]. I am also affiliated with Media Analytics & Computing Laboratory (MAC Lab). Before that, I received my M.S. and Ph.D. degrees from [https://www.sysu.edu.cn/ Sun Yat-sen University] in 2021 and 2025, respectively, where I was advised by [https://chenliang.tech/ Prof. Liang Chen], [https://sse.sysu.edu.cn/teacher/159 Prof. Wuhui Chen], and [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng].
 ~~~
 
 My research interests include: 
 - Trustworthy Graph Learning: reliability, fairness, etc.
 - Graph Neural Networks
-- Generative Recommendation
 - Large Language Models
+- Generative Recommendation
 
-Our group is always recruiting undergraduate/master students. Please contact me with your CV attached if you are interested in the above topics.
+We are always recruiting undergraduate/master students. Please contact me with your CV attached if you are interested in the above topics.
 
 
 == PyTorch Geometric
