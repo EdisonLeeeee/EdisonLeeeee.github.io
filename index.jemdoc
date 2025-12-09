@@ -2,27 +2,33 @@
 == Jintang Li's  Homepage
 
 ~~~
-{}{img_left}{pic/bio.jpg}{alt text}{200}{240}{https://edisonleeeee.github.io/}
+{}{img_left}{pic/bio.jpg}{alt text}{200}{260}{https://edisonleeeee.github.io/}
 Jintang Li (李金膛 in Chinese) \n
 Assistant Professor \n
 
 [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence] \n
 [https://www.xmu.edu.cn/ Xiamen University] \n
 [https://github.com/pyg-team PyG Team] \n
-[assets/CV_Jintang_Li.pdf Curriculum Vitae (CV)]
 
 E-mail: edisonlee \[AT\] xmu.edu.cn \n
 \[[https://github.com/EdisonLeeeee GitHub]\]  \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]  \[[https://dblp.uni-trier.de/pid/260/6811.html DBLP]\] \[[https://www.zhihu.com/people/Edisonleejt Zhihu]\]
 ~~~
 
 == About me
-I am currently an assistant professor of the [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence], [https://www.xmu.edu.cn/ Xiamen University]. I received my M.S. and Ph.D. degrees from [https://www.sysu.edu.cn/ Sun Yat-sen University] in 2021 and 2025, respectively, where I was advised by [https://chenliang.tech/ Prof. Liang Chen] and [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng].
+~~~
+{}{img_left}{pic/xmu.png}{alt text}{120}{120}{https://www.xmu.edu.cn/}
+
+I am currently an assistant professor at the [https://iai.xmu.edu.cn/ Institute of Artificial Intelligence], [https://www.xmu.edu.cn/ Xiamen University]. Before that, I received my M.S. and Ph.D. degrees from [https://www.sysu.edu.cn/ Sun Yat-sen University] in 2021 and 2025, respectively, where I was advised by [https://chenliang.tech/ Prof. Liang Chen] and [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng].
+~~~
 
 My research interests include: 
 - Trustworthy Graph Learning: reliability, fairness, etc.
 - Graph Neural Networks
 - Generative Recommendation
 - Large Language Models
+
+Our group is always recruiting undergraduate/master students. Please contact me with your CV attached if you are interested in the above topics.
+
 
 == PyTorch Geometric
 ~~~
@@ -34,7 +40,7 @@ I am a core maintainer of [https://github.com/pyg-team/pytorch_geometric PyTorch
 ==  Educations
 
 ~~~
-{}{img_left}{pic/Sun_Yat-sen_University.png}{alt text}{120}{120}{https://www.sysu.edu.cn/}
+{}{img_left}{pic/sysu.png}{alt text}{120}{120}{https://www.sysu.edu.cn/}
 - *Sun Yat-sen University*
 Ph.D in Software Engineering, from August 2021 to June 2025.
 - *Sun Yat-sen University*
@@ -147,7 +153,7 @@ Please find my full list of publications in the following [publications.html Lin
 
 I am interested in participating in AI competitions and would love to collaborate with others! Please feel free to reach out to me if you are also interested in such collaborations.
 
-. Tencent Advertising Algorithm Competition (TAAC 2025) \[[https://algo.qq.com/ Link]\] - 🥈2nd place.
+. Tencent Advertising Algorithm Competition (TAAC 2025) \[[https://algo.qq.com/ Link]\] - 🥈2nd place (2/2800).
 . DC 2025: The 3rd Challenge on Electromagnetic Data \[[https://challenge.datacastle.cn/v3/cmptDetail.html?id=988 Link]\] - 🥉3rd place.
 . WWW 2025 multimodal LLMs \[[https://tianchi.aliyun.com/competition/entrance/532277 Link]\] - 5th place (5/1643).
 . The 2nd World AI4S Prize, LLM Logical Reasoning track - 🏆1st place.
