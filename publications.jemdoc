@@ -3,6 +3,16 @@
 Note: \* for corresponding author, \# for equal contribution.
 
 === Conferences and Journals
+. *Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective* \n
+  *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Zulun Zhu, Liang Chen. \n
+  In Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2026*). \n
+  \[[https://arxiv.org/abs/2410.10241 pdf]\]
+  \[[https://github.com/EdisonLeeeee/lrGAE code]\]  
+. *One For All: Achieving Adaptive Graph Neural Networks via Mixture of Message Passing* \n
+  Zhaojun Luo, *Jintang Li*, Yuchang Zhu, Yun Fu, Liang Chen\*, Zibin Zheng. \n
+  In Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2026*). \n
+  \[[ pdf]\]
+  \[[ code]\]    
 . *SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding* \n
   Yuchang Zhu, *Jintang Li*, Huizhe Zhang, Liang Chen, Zibin Zheng. \n
   IEEE Transactions on Knowledge and Data Engineering (*TKDE 2025*). \n
@@ -139,11 +149,6 @@ Note: \* for corresponding author, \# for equal contribution.
   *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Liang Chen\*, Zibin Zheng. \n
   arXiv, 2024. \n
   \[[https://arxiv.org/abs/2502.13562 pdf]\]
-. *Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective* \n
-  *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Xinzhou Jin, Guibin Zhang, Zulun Zhu, Zibin Zheng, Liang Chen\*. \n
-  arXiv, 2024. \n
-  \[[https://arxiv.org/abs/2410.10241 pdf]\]
-  \[[https://github.com/EdisonLeeeee/lrGAE code]\]  
 . *LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning* \n
   *Jintang Li*, Jiawang Dan, Ruofan Wu, Jing Zhou, Sheng Tian, Yunfei Liu, Baokun Wang\*, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen\*, Zibin Zheng. \n
   arXiv, 2023. \n

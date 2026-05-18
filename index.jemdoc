@@ -59,21 +59,15 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 
 == Recent news
 
+- May 17, 2026: Two papers have been accepted by KDD 2026, see you in Jeju!
+- May, 2026: I was invited to serve as a reviewer for CIKM 2026, ICML-GLM Workshop, ACM MM 2026, NeurIPS 2026.
+- April 17, 2026: I was invited to serve as a reviewer for TKDE.
+- April 15, 2026: I was selected for the Tencent WeChat Rhino-Bird Special Research Programme (2026 腾讯微信犀牛鸟专项研究计划).
+- Feb 13, 2026: I was invited to serve as an Area Chair for KDD 2026 Research Track (Cycle 2).
 - November 27, 2025: I joined the Institute of Artificial Intelligence, Xiamen University as an Assistant Professor.
 - November 26, 2025: I won second place of Tencent Advertising Algorithm Competition (TAAC 2025).
 - November 24, 2025: One paper has been accepted by TKDE.
 - October 29, 2025: I was honored with the ACM China (Zhuhai Chapter) Doctoral Dissertation Award in recognition of my outstanding doctoral research in computer science.
-- \[ICLR 2026\] September 23, 2025: I was invited to serve as a reviewer for ICLR 2026.
-- \[AAAI 2026\] July 28, 2025: I was invited to serve as a reviewer for AAAI 2026.
-- \[KDD 2026\] July 25, 2025: I was invited to serve as an Area Chair for KDD 2026 Research Track.
-- \[KDD 2026\] July 25, 2025: I was invited to serve as a reviewer for KDD 2026 Dataset & Benchmark Track.
-- \[LoG 2025\] July 23, 2025: I was invited to serve as a reviewer for LoG 2025.
-- June 21, 2025: I was honored as an Outstanding Graduating Ph.D. Student by Sun Yat-sen University.
-- \[TPAMI 2025\] May 19, 2025: One paper has been accepted by TPAMI.
-- \[ICML 2025\] May 1, 2025: One paper has been accepted by ICML 2025.
-- \[NeurIPS 2025\] April 17, 2025: I was invited to serve as a reviewer for NeurIPS 2025 Dataset and Benchmark Track.
-- \[CIKM 2025\] April 16, 2025: I was invited to join the Program Committee for CIKM 2025.
-- \[KDD 2025\] March 4, 2025: I was invited to serve as a reviewer for KDD 2025 Dataset and Benchmark Track February.
 
 == Selected Publications 
 
@@ -81,6 +75,16 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [publications.html Link].
 
 === Conferences and Journals
+. *Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective* \n
+  *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Zulun Zhu, Liang Chen. \n
+  In Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2026*). \n
+  \[[https://arxiv.org/abs/2410.10241 pdf]\]
+  \[[https://github.com/EdisonLeeeee/lrGAE code]\]  
+. *One For All: Achieving Adaptive Graph Neural Networks via Mixture of Message Passing* \n
+  Zhaojun Luo, *Jintang Li*, Yuchang Zhu, Yun Fu, Liang Chen\*, Zibin Zheng. \n
+  In Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2026*). \n
+  \[[ pdf]\]
+  \[[ code]\]    
 . *Heterophily-aware Representation Learning on Heterogeneous Graphs* \n
   *Jintang Li*, Zheng Wei, Yuchang Zhu, Ruofan Wu, Huizhe Zhang, Liang Chen\*, Zibin Zheng. \n
   IEEE Transactions on Pattern Analysis and Machine Intelligence (*TPAMI 2025*). \n
@@ -137,11 +141,6 @@ Please find my full list of publications in the following [publications.html Lin
   *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Liang Chen\*, Zibin Zheng. \n
   arXiv, 2024. \n
   \[[https://arxiv.org/abs/2502.13562 pdf]\]
-. *Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective* \n
-  *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Xinzhou Jin, Guibin Zhang, Zulun Zhu, Zibin Zheng, Liang Chen\*. \n
-  arXiv, 2024. \n
-  \[[https://arxiv.org/abs/2410.10241 pdf]\]
-  \[[https://github.com/EdisonLeeeee/lrGAE code]\]  
 
 == Projects
 
