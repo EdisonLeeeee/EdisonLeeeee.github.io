@@ -75,7 +75,7 @@ Note: \* for corresponding author, \# for equal contribution. \n
 Please find my full list of publications in the following [publications.html Link].
 
 === Conferences and Journals
-. *Revisiting and Benchmarking Graph Autoencoders: A Contrastive Learning Perspective* \n
+. *Revisiting Graph Autoencoders as Implicit Contrastive Learners* \n
   *Jintang Li*, Ruofan Wu, Yuchang Zhu, Huizhe Zhang, Zulun Zhu, Liang Chen. \n
   In Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2026*). \n
   \[[https://arxiv.org/abs/2410.10241 pdf]\]
