@@ -12,7 +12,7 @@ Assistant Professor \n
 [https://github.com/pyg-team PyG Team] \n
 
 E-mail: edisonlee \[AT\] xmu.edu.cn \n
-\[[https://github.com/EdisonLeeeee GitHub]\]  \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]  \[[https://dblp.uni-trier.de/pid/260/6811.html DBLP]\] \[[https://www.zhihu.com/people/Edisonleejt Zhihu]\]
+\[[https://github.com/EdisonLeeeee GitHub]\]  \[[https://scholar.google.com/citations?user=mS4fpUIAAAAJ&hl=zh-CN Google Scholar]\]  \[[https://dblp.uni-trier.de/pid/260/6811.html DBLP]\]
 ~~~
 
 == About me
@@ -23,12 +23,26 @@ I am currently an assistant professor at the [https://iai.xmu.edu.cn/ Institute 
 ~~~
 
 My research interests include: 
-- Trustworthy Graph Learning: reliability, fairness, etc.
 - Graph Neural Networks
+- Recommender Systems
 - Large Language Models
-- Generative Recommendation
+- AI4Science
 
-We are always recruiting undergraduate/master students. Please contact me with your CV attached if you are interested in the above topics.
+I am always recruiting undergraduate/master students. Please contact me with your CV attached if you are interested in the above topics.
+
+
+== Recent news
+
+- July 16, 2026: Our team has won 2nd place in the Academic Track and 3rd place in the Industry Track of the Tencent Advertising Algorithm Competition (TAAC 2026).
+- May 17, 2026: Two papers have been accepted by KDD 2026, see you in Jeju!
+- May, 2026: I was invited to serve as a reviewer for CIKM 2026, ICML-GLM Workshop, ACM MM 2026, NeurIPS 2026.
+- April 17, 2026: I was invited to serve as a reviewer for TKDE.
+- April 15, 2026: I was selected for the Tencent WeChat Rhino-Bird Special Research Programme (2026 腾讯微信犀牛鸟专项研究计划).
+- Feb 13, 2026: I was invited to serve as an Area Chair for KDD 2026 Research Track (Cycle 2).
+- November 27, 2025: I joined the Institute of Artificial Intelligence, Xiamen University as an Assistant Professor.
+- November 26, 2025: I won second place of Tencent Advertising Algorithm Competition (TAAC 2025).
+- November 24, 2025: One paper has been accepted by TKDE.
+- October 29, 2025: I was honored with the ACM China (Zhuhai Chapter) Doctoral Dissertation Award in recognition of my outstanding doctoral research in computer science.
 
 
 == PyTorch Geometric
@@ -57,17 +71,6 @@ M.S. in Electronics and Communications Engineering, from August 2019 to June 202
 - \[2023-2024\] Research Intern at *Ant Group*, from July 2023 to March 2024.
 ~~~
 
-== Recent news
-
-- May 17, 2026: Two papers have been accepted by KDD 2026, see you in Jeju!
-- May, 2026: I was invited to serve as a reviewer for CIKM 2026, ICML-GLM Workshop, ACM MM 2026, NeurIPS 2026.
-- April 17, 2026: I was invited to serve as a reviewer for TKDE.
-- April 15, 2026: I was selected for the Tencent WeChat Rhino-Bird Special Research Programme (2026 腾讯微信犀牛鸟专项研究计划).
-- Feb 13, 2026: I was invited to serve as an Area Chair for KDD 2026 Research Track (Cycle 2).
-- November 27, 2025: I joined the Institute of Artificial Intelligence, Xiamen University as an Assistant Professor.
-- November 26, 2025: I won second place of Tencent Advertising Algorithm Competition (TAAC 2025).
-- November 24, 2025: One paper has been accepted by TKDE.
-- October 29, 2025: I was honored with the ACM China (Zhuhai Chapter) Doctoral Dissertation Award in recognition of my outstanding doctoral research in computer science.
 
 == Selected Publications 
 
@@ -142,19 +145,11 @@ Please find my full list of publications in the following [publications.html Lin
   arXiv, 2024. \n
   \[[https://arxiv.org/abs/2502.13562 pdf]\]
 
-== Projects
-
-. [https://github.com/pyg-team/pytorch_geometric PyTorch Geometric] (collaborator): Graph Neural Network Library for PyTorch.
-. [https://github.com/EdisonLeeeee/GraphGallery GraphGallery]: A gallery for benchmarking Graph Neural Networks (GNNs).
-. [https://github.com/EdisonLeeeee/GreatX GreatX]: A graph reliability toolbox based on PyTorch and PyTorch Geometric.
-. [https://github.com/EdisonLeeeee/Graph-Adversarial-Learning Awesome Graph Adversarial Learning]: A curated collection of adversarial attack and defense on graph data.
-. [https://github.com/EdisonLeeeee/Awesome-Fair-Graph-Learning Awesome Fair Graph Learning]: Paper Lists for Fair Graph Learning (FairGL).
-. [https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders Awesome Masked Autoencoders]: A collection of literature after or concurrent with Masked Autoencoder (MAE).
-
 == Rewards
 
 I am interested in participating in AI competitions and would love to collaborate with others! Please feel free to reach out to me if you are also interested in such collaborations.
 
+. Tencent Advertising Algorithm Competition (TAAC 2026) \[[https://algo.qq.com/ Link]\] - 🥈2nd Place in the Academic Track and 🥉3rd Place in the Industry Track, among 5,746 competitors across both tracks.
 . Tencent Advertising Algorithm Competition (TAAC 2025) \[[https://algo.qq.com/ Link]\] - 🥈2nd place (2/2800).
 . DC 2025: The 3rd Challenge on Electromagnetic Data \[[https://challenge.datacastle.cn/v3/cmptDetail.html?id=988 Link]\] - 🥉3rd place.
 . WWW 2025 multimodal LLMs \[[https://tianchi.aliyun.com/competition/entrance/532277 Link]\] - 5th place (5/1643).
@@ -184,21 +179,6 @@ I am interested in participating in AI competitions and would love to collaborat
 . KDD 2022 tutorial: [https://ai.tencent.com/ailab/ml/twgl/ Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection].
 . AI TIME IJCAI 2021: [https://www.bilibili.com/video/BV1RS4y1Q7Wq Understanding Structural Vulnerability in Graph Convolutional Networks] (in Chinese).
 
-== Scholarship & Honors
-
-. National Scholarship: 2022-2023 & 2023-2024 at Sun Yat-sen University (Top 0.2%).
-. The Academic Star Nomination Award at Sun Yat-sen University (逸仙学术之星提名奖, Top 0.02%). \[[https://mp.weixin.qq.com/s/wilDP7gbs35SK7jpGzXUnA News]\]
-. Top-100 students at Sun Yat-sen University (百年校庆百名优秀学子). \[[https://mp.weixin.qq.com/s/CdGZJU7aJPOjNiMd2mxhYw News]\]
-. Guo Xie Birong Scholarship 2024-2025 at Sun Yat-sen University (中山大学郭谢碧蓉奖学金, Top 0.2%).
-. Outstanding Graduating Ph.D. Student of Sun Yat-sen University.
-. ACM China (Zhuhai Chapter) Doctoral Dissertation Award (ACM中国珠海分会优博奖)
-
 == Professional services
-- Area Chair: KDD 2026 Research Track.
+- Area Chair: KDD 2026/2027 Research Track.
 - Reviewer: AAAI, IJCAI, WWW, CIKM, WSDM, KDD, ICML, NeurIPS, ICLR, TKDD, LoG, JMLR, TPAMI etc.
-
-== Useful Links
-Deadlines: [https://ccfddl.github.io/ ccf-ddl] \n
-CCF list: [https://ccf.atom.im/ ccf.atom.im]
-
-# [cv.pdf A brief cv].
